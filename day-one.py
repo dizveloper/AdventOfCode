@@ -14,14 +14,22 @@
 infile = open("day-one-input.txt", "r")
 infile.readline()  # skip the first line
 nums = []
-# total = 0
+running_total = 0
+freqs = [0]
+first_repeated = 0
+
+# while first_repeated == 0:
 for line in infile:
     num = line.split()
     nums.append(int(num[0]))
-    print(int(num[0]))
+    running_total += int(num[0])
+    if running_total in freqs:
+        first_repeated = running_total
+        print(running_total)
+    freqs.append(running_total)
 
-total = sum(nums)
-print(len(nums))
-print(total)
+
+print("PART 1: total", running_total)
+print("PART 2: first repeat frequency", first_repeated)
 
 infile.close()
