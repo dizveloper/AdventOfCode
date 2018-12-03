@@ -31,3 +31,21 @@ for Fabric in Quilt:
             union += 1
 print(union)
 
+
+for inner_line in input:
+    coordinates = inner_line["coordinates"]
+    inner_x = coordinates["x"]
+    inner_y = coordinates["y"]
+
+    size = inner_line["size"]
+    inner_w = size["width"]
+    inner_h = size["height"]
+
+    failed = False
+    for row in range(inner_h):
+        for col in range(inner_w):
+            if Quilt[inner_y + row][inner_x + col] != 1:
+                failed = True
+                break
+    if not failed:
+        print(inner_line["id"])
