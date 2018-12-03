@@ -41,11 +41,11 @@ for inner_line in input:
     inner_w = size["width"]
     inner_h = size["height"]
 
-    failed = False
+    overlapping = False
     for row in range(inner_h):
         for col in range(inner_w):
             if Quilt[inner_y + row][inner_x + col] != 1:
-                failed = True
+                overlapping = True
                 break
-    if not failed:
+    if not overlapping:
         print(inner_line["id"])
