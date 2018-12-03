@@ -1,0 +1,12332 @@
+[
+  {
+    "coordinates": {
+      "x": 565,
+      "y": 109
+    },
+    "size": {
+      "width": 14,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 413,
+      "y": 723
+    },
+    "size": {
+      "width": 16,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 136,
+      "y": 229
+    },
+    "size": {
+      "width": 27,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 640,
+      "y": 187
+    },
+    "size": {
+      "width": 10,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 666,
+      "y": 879
+    },
+    "size": {
+      "width": 15,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 20,
+      "y": 696
+    },
+    "size": {
+      "width": 19,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 543,
+      "y": 767
+    },
+    "size": {
+      "width": 19,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 92,
+      "y": 312
+    },
+    "size": {
+      "width": 17,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 833,
+      "y": 99
+    },
+    "size": {
+      "width": 21,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 795,
+      "y": 572
+    },
+    "size": {
+      "width": 26,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 801,
+      "y": 965
+    },
+    "size": {
+      "width": 12,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 385,
+      "y": 951
+    },
+    "size": {
+      "width": 10,
+      "height": 7
+    }
+  },
+  {
+    "coordinates": {
+      "x": 18,
+      "y": 241
+    },
+    "size": {
+      "width": 10,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 86,
+      "y": 656
+    },
+    "size": {
+      "width": 24,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 505,
+      "y": 955
+    },
+    "size": {
+      "width": 11,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 744,
+      "y": 538
+    },
+    "size": {
+      "width": 25,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 91,
+      "y": 488
+    },
+    "size": {
+      "width": 21,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "y": 291
+    },
+    "size": {
+      "width": 11,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 618,
+      "y": 42
+    },
+    "size": {
+      "width": 24,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "y": 422
+    },
+    "size": {
+      "width": 19,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 469,
+      "y": 38
+    },
+    "size": {
+      "width": 17,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 559,
+      "y": 768
+    },
+    "size": {
+      "width": 29,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 493,
+      "y": 151
+    },
+    "size": {
+      "width": 28,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "y": 123
+    },
+    "size": {
+      "width": 21,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 473,
+      "y": 797
+    },
+    "size": {
+      "width": 15,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 434,
+      "y": 107
+    },
+    "size": {
+      "width": 14,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 627,
+      "y": 844
+    },
+    "size": {
+      "width": 25,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 146,
+      "y": 715
+    },
+    "size": {
+      "width": 10,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 297,
+      "y": 86
+    },
+    "size": {
+      "width": 20,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 813,
+      "y": 476
+    },
+    "size": {
+      "width": 15,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 428,
+      "y": 417
+    },
+    "size": {
+      "width": 28,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 202,
+      "y": 163
+    },
+    "size": {
+      "width": 13,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 934,
+      "y": 273
+    },
+    "size": {
+      "width": 13,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 418,
+      "y": 254
+    },
+    "size": {
+      "width": 28,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 918,
+      "y": 798
+    },
+    "size": {
+      "width": 12,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 486,
+      "y": 798
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 652,
+      "y": 31
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 456,
+      "y": 898
+    },
+    "size": {
+      "width": 21,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 330,
+      "y": 300
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 901,
+      "y": 713
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 337,
+      "y": 809
+    },
+    "size": {
+      "width": 18,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 966,
+      "y": 349
+    },
+    "size": {
+      "width": 13,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 69,
+      "y": 782
+    },
+    "size": {
+      "width": 17,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "y": 954
+    },
+    "size": {
+      "width": 14,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 780,
+      "y": 50
+    },
+    "size": {
+      "width": 13,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "y": 632
+    },
+    "size": {
+      "width": 14,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 847,
+      "y": 186
+    },
+    "size": {
+      "width": 29,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 143,
+      "y": 18
+    },
+    "size": {
+      "width": 11,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 519,
+      "y": 65
+    },
+    "size": {
+      "width": 22,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 137,
+      "y": 871
+    },
+    "size": {
+      "width": 19,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 242,
+      "y": 133
+    },
+    "size": {
+      "width": 20,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 517,
+      "y": 715
+    },
+    "size": {
+      "width": 17,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 674,
+      "y": 378
+    },
+    "size": {
+      "width": 12,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 921,
+      "y": 787
+    },
+    "size": {
+      "width": 28,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "y": 711
+    },
+    "size": {
+      "width": 14,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 691,
+      "y": 82
+    },
+    "size": {
+      "width": 12,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 600,
+      "y": 656
+    },
+    "size": {
+      "width": 25,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "y": 291
+    },
+    "size": {
+      "width": 24,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 345,
+      "y": 679
+    },
+    "size": {
+      "width": 19,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 599,
+      "y": 311
+    },
+    "size": {
+      "width": 14,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 181,
+      "y": 410
+    },
+    "size": {
+      "width": 27,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 415,
+      "y": 718
+    },
+    "size": {
+      "width": 24,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 567,
+      "y": 945
+    },
+    "size": {
+      "width": 27,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 113,
+      "y": 9
+    },
+    "size": {
+      "width": 17,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 639,
+      "y": 492
+    },
+    "size": {
+      "width": 20,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 425,
+      "y": 414
+    },
+    "size": {
+      "width": 12,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 805,
+      "y": 970
+    },
+    "size": {
+      "width": 3,
+      "height": 6
+    }
+  },
+  {
+    "coordinates": {
+      "x": 575,
+      "y": 489
+    },
+    "size": {
+      "width": 22,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 897,
+      "y": 117
+    },
+    "size": {
+      "width": 16,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 722,
+      "y": 393
+    },
+    "size": {
+      "width": 29,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 56,
+      "y": 120
+    },
+    "size": {
+      "width": 11,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 698,
+      "y": 724
+    },
+    "size": {
+      "width": 19,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 737,
+      "y": 490
+    },
+    "size": {
+      "width": 26,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 129,
+      "y": 628
+    },
+    "size": {
+      "width": 10,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 656,
+      "y": 488
+    },
+    "size": {
+      "width": 22,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 805,
+      "y": 804
+    },
+    "size": {
+      "width": 12,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 701,
+      "y": 325
+    },
+    "size": {
+      "width": 29,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 846,
+      "y": 51
+    },
+    "size": {
+      "width": 21,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 368,
+      "y": 612
+    },
+    "size": {
+      "width": 23,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 218,
+      "y": 308
+    },
+    "size": {
+      "width": 12,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 567,
+      "y": 702
+    },
+    "size": {
+      "width": 10,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 11,
+      "y": 273
+    },
+    "size": {
+      "width": 21,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 959,
+      "y": 371
+    },
+    "size": {
+      "width": 10,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 311,
+      "y": 123
+    },
+    "size": {
+      "width": 26,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 180,
+      "y": 88
+    },
+    "size": {
+      "width": 20,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 573,
+      "y": 502
+    },
+    "size": {
+      "width": 18,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 611,
+      "y": 233
+    },
+    "size": {
+      "width": 24,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 304,
+      "y": 126
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 363,
+      "y": 714
+    },
+    "size": {
+      "width": 29,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 753,
+      "y": 584
+    },
+    "size": {
+      "width": 15,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 452,
+      "y": 210
+    },
+    "size": {
+      "width": 25,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "y": 197
+    },
+    "size": {
+      "width": 14,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 732,
+      "y": 961
+    },
+    "size": {
+      "width": 11,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 643,
+      "y": 43
+    },
+    "size": {
+      "width": 18,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 56,
+      "y": 779
+    },
+    "size": {
+      "width": 14,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 160,
+      "y": 938
+    },
+    "size": {
+      "width": 28,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 271,
+      "y": 674
+    },
+    "size": {
+      "width": 15,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 100,
+      "y": 782
+    },
+    "size": {
+      "width": 16,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 694,
+      "y": 772
+    },
+    "size": {
+      "width": 19,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 608,
+      "y": 917
+    },
+    "size": {
+      "width": 15,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 967,
+      "y": 381
+    },
+    "size": {
+      "width": 11,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 578,
+      "y": 124
+    },
+    "size": {
+      "width": 29,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 954,
+      "y": 84
+    },
+    "size": {
+      "width": 12,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 76,
+      "y": 872
+    },
+    "size": {
+      "width": 13,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 803,
+      "y": 150
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 690,
+      "y": 789
+    },
+    "size": {
+      "width": 20,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 626,
+      "y": 130
+    },
+    "size": {
+      "width": 27,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 236,
+      "y": 547
+    },
+    "size": {
+      "width": 20,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 878,
+      "y": 655
+    },
+    "size": {
+      "width": 27,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 911,
+      "y": 726
+    },
+    "size": {
+      "width": 28,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 284,
+      "y": 165
+    },
+    "size": {
+      "width": 11,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 191,
+      "y": 111
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 530,
+      "y": 703
+    },
+    "size": {
+      "width": 12,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 386,
+      "y": 36
+    },
+    "size": {
+      "width": 25,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 110,
+      "y": 859
+    },
+    "size": {
+      "width": 25,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "y": 871
+    },
+    "size": {
+      "width": 26,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 373,
+      "y": 163
+    },
+    "size": {
+      "width": 14,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 572,
+      "y": 501
+    },
+    "size": {
+      "width": 13,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "y": 401
+    },
+    "size": {
+      "width": 22,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 288,
+      "y": 304
+    },
+    "size": {
+      "width": 24,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 835,
+      "y": 42
+    },
+    "size": {
+      "width": 23,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 767,
+      "y": 211
+    },
+    "size": {
+      "width": 14,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 174,
+      "y": 88
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "y": 407
+    },
+    "size": {
+      "width": 12,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 396,
+      "y": 32
+    },
+    "size": {
+      "width": 20,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 852,
+      "y": 58
+    },
+    "size": {
+      "width": 17,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 971,
+      "y": 620
+    },
+    "size": {
+      "width": 21,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 64,
+      "y": 710
+    },
+    "size": {
+      "width": 26,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 297,
+      "y": 176
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 751,
+      "y": 343
+    },
+    "size": {
+      "width": 29,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 23,
+      "y": 610
+    },
+    "size": {
+      "width": 25,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 155,
+      "y": 53
+    },
+    "size": {
+      "width": 25,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 606,
+      "y": 439
+    },
+    "size": {
+      "width": 19,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 511,
+      "y": 143
+    },
+    "size": {
+      "width": 21,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 306,
+      "y": 21
+    },
+    "size": {
+      "width": 11,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 844,
+      "y": 67
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 966,
+      "y": 884
+    },
+    "size": {
+      "width": 26,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 845,
+      "y": 12
+    },
+    "size": {
+      "width": 16,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 214,
+      "y": 406
+    },
+    "size": {
+      "width": 22,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 186,
+      "y": 113
+    },
+    "size": {
+      "width": 25,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 458,
+      "y": 886
+    },
+    "size": {
+      "width": 21,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 442,
+      "y": 99
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 652,
+      "y": 796
+    },
+    "size": {
+      "width": 27,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 4,
+      "y": 218
+    },
+    "size": {
+      "width": 14,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 174,
+      "y": 135
+    },
+    "size": {
+      "width": 18,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 491,
+      "y": 895
+    },
+    "size": {
+      "width": 28,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 736,
+      "y": 954
+    },
+    "size": {
+      "width": 18,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 194,
+      "y": 412
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 642,
+      "y": 135
+    },
+    "size": {
+      "width": 27,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 637,
+      "y": 223
+    },
+    "size": {
+      "width": 11,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 549,
+      "y": 404
+    },
+    "size": {
+      "width": 16,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 662,
+      "y": 354
+    },
+    "size": {
+      "width": 17,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 211,
+      "y": 963
+    },
+    "size": {
+      "width": 25,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "y": 881
+    },
+    "size": {
+      "width": 26,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 116,
+      "y": 374
+    },
+    "size": {
+      "width": 27,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 6,
+      "y": 948
+    },
+    "size": {
+      "width": 13,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 828,
+      "y": 2
+    },
+    "size": {
+      "width": 25,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 283,
+      "y": 968
+    },
+    "size": {
+      "width": 16,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 852,
+      "y": 22
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 395,
+      "y": 937
+    },
+    "size": {
+      "width": 29,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 357,
+      "y": 636
+    },
+    "size": {
+      "width": 27,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "y": 9
+    },
+    "size": {
+      "width": 15,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 647,
+      "y": 147
+    },
+    "size": {
+      "width": 20,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 512,
+      "y": 880
+    },
+    "size": {
+      "width": 12,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 572,
+      "y": 30
+    },
+    "size": {
+      "width": 18,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 964,
+      "y": 663
+    },
+    "size": {
+      "width": 17,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 828,
+      "y": 633
+    },
+    "size": {
+      "width": 15,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 839,
+      "y": 173
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "y": 175
+    },
+    "size": {
+      "width": 14,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 455,
+      "y": 645
+    },
+    "size": {
+      "width": 16,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 92,
+      "y": 305
+    },
+    "size": {
+      "width": 11,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 868,
+      "y": 289
+    },
+    "size": {
+      "width": 29,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 434,
+      "y": 181
+    },
+    "size": {
+      "width": 17,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 21,
+      "y": 692
+    },
+    "size": {
+      "width": 22,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 486,
+      "y": 918
+    },
+    "size": {
+      "width": 18,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 359,
+      "y": 189
+    },
+    "size": {
+      "width": 29,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 231,
+      "y": 642
+    },
+    "size": {
+      "width": 10,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 446,
+      "y": 164
+    },
+    "size": {
+      "width": 26,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 812,
+      "y": 878
+    },
+    "size": {
+      "width": 13,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 401,
+      "y": 613
+    },
+    "size": {
+      "width": 18,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 140,
+      "y": 218
+    },
+    "size": {
+      "width": 29,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 223,
+      "y": 825
+    },
+    "size": {
+      "width": 13,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 863,
+      "y": 337
+    },
+    "size": {
+      "width": 21,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 568,
+      "y": 464
+    },
+    "size": {
+      "width": 25,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 417,
+      "y": 475
+    },
+    "size": {
+      "width": 19,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 486,
+      "y": 894
+    },
+    "size": {
+      "width": 29,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 70,
+      "y": 522
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 657,
+      "y": 438
+    },
+    "size": {
+      "width": 10,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 156,
+      "y": 885
+    },
+    "size": {
+      "width": 29,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 219,
+      "y": 328
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 9,
+      "y": 585
+    },
+    "size": {
+      "width": 10,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 904,
+      "y": 667
+    },
+    "size": {
+      "width": 17,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 137,
+      "y": 298
+    },
+    "size": {
+      "width": 26,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 947,
+      "y": 93
+    },
+    "size": {
+      "width": 28,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 359,
+      "y": 712
+    },
+    "size": {
+      "width": 15,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 663,
+      "y": 694
+    },
+    "size": {
+      "width": 22,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 786,
+      "y": 310
+    },
+    "size": {
+      "width": 28,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 823,
+      "y": 920
+    },
+    "size": {
+      "width": 22,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 621,
+      "y": 337
+    },
+    "size": {
+      "width": 12,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 44,
+      "y": 504
+    },
+    "size": {
+      "width": 14,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 526,
+      "y": 637
+    },
+    "size": {
+      "width": 14,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 731,
+      "y": 778
+    },
+    "size": {
+      "width": 23,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 681,
+      "y": 909
+    },
+    "size": {
+      "width": 18,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 636,
+      "y": 290
+    },
+    "size": {
+      "width": 12,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 201,
+      "y": 205
+    },
+    "size": {
+      "width": 14,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 451,
+      "y": 482
+    },
+    "size": {
+      "width": 16,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 975,
+      "y": 373
+    },
+    "size": {
+      "width": 16,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 819,
+      "y": 920
+    },
+    "size": {
+      "width": 16,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "y": 407
+    },
+    "size": {
+      "width": 13,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 596,
+      "y": 291
+    },
+    "size": {
+      "width": 15,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 882,
+      "y": 71
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 729,
+      "y": 174
+    },
+    "size": {
+      "width": 18,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 54,
+      "y": 269
+    },
+    "size": {
+      "width": 3,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 395,
+      "y": 482
+    },
+    "size": {
+      "width": 29,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 745,
+      "y": 379
+    },
+    "size": {
+      "width": 26,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 208,
+      "y": 91
+    },
+    "size": {
+      "width": 21,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 897,
+      "y": 812
+    },
+    "size": {
+      "width": 16,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 857,
+      "y": 690
+    },
+    "size": {
+      "width": 13,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 455,
+      "y": 711
+    },
+    "size": {
+      "width": 20,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 502,
+      "y": 304
+    },
+    "size": {
+      "width": 17,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 978,
+      "y": 639
+    },
+    "size": {
+      "width": 11,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 725,
+      "y": 170
+    },
+    "size": {
+      "width": 24,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 774,
+      "y": 540
+    },
+    "size": {
+      "width": 14,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 553,
+      "y": 26
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 741,
+      "y": 947
+    },
+    "size": {
+      "width": 16,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 440,
+      "y": 169
+    },
+    "size": {
+      "width": 13,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 180,
+      "y": 81
+    },
+    "size": {
+      "width": 27,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 974,
+      "y": 440
+    },
+    "size": {
+      "width": 11,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 766,
+      "y": 232
+    },
+    "size": {
+      "width": 25,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 27,
+      "y": 518
+    },
+    "size": {
+      "width": 19,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 690,
+      "y": 313
+    },
+    "size": {
+      "width": 18,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 343,
+      "y": 271
+    },
+    "size": {
+      "width": 19,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 486,
+      "y": 561
+    },
+    "size": {
+      "width": 21,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 148,
+      "y": 69
+    },
+    "size": {
+      "width": 19,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 657,
+      "y": 562
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 403,
+      "y": 121
+    },
+    "size": {
+      "width": 28,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 664,
+      "y": 614
+    },
+    "size": {
+      "width": 22,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 63,
+      "y": 23
+    },
+    "size": {
+      "width": 26,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 353,
+      "y": 886
+    },
+    "size": {
+      "width": 26,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 96,
+      "y": 440
+    },
+    "size": {
+      "width": 13,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 689,
+      "y": 738
+    },
+    "size": {
+      "width": 3,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 456,
+      "y": 694
+    },
+    "size": {
+      "width": 18,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 673,
+      "y": 497
+    },
+    "size": {
+      "width": 28,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 288,
+      "y": 256
+    },
+    "size": {
+      "width": 26,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 433,
+      "y": 849
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 871,
+      "y": 297
+    },
+    "size": {
+      "width": 20,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 694,
+      "y": 771
+    },
+    "size": {
+      "width": 8,
+      "height": 6
+    }
+  },
+  {
+    "coordinates": {
+      "x": 301,
+      "y": 46
+    },
+    "size": {
+      "width": 23,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 871,
+      "y": 596
+    },
+    "size": {
+      "width": 28,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 743,
+      "y": 162
+    },
+    "size": {
+      "width": 15,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 95,
+      "y": 490
+    },
+    "size": {
+      "width": 10,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 401,
+      "y": 885
+    },
+    "size": {
+      "width": 17,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 596,
+      "y": 133
+    },
+    "size": {
+      "width": 24,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 373,
+      "y": 522
+    },
+    "size": {
+      "width": 15,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 593,
+      "y": 746
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 243,
+      "y": 812
+    },
+    "size": {
+      "width": 21,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 543,
+      "y": 855
+    },
+    "size": {
+      "width": 22,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 218,
+      "y": 817
+    },
+    "size": {
+      "width": 20,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 19,
+      "y": 353
+    },
+    "size": {
+      "width": 16,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 846,
+      "y": 142
+    },
+    "size": {
+      "width": 23,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 671,
+      "y": 365
+    },
+    "size": {
+      "width": 12,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 470,
+      "y": 331
+    },
+    "size": {
+      "width": 20,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 380,
+      "y": 518
+    },
+    "size": {
+      "width": 12,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 671,
+      "y": 177
+    },
+    "size": {
+      "width": 29,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 693,
+      "y": 875
+    },
+    "size": {
+      "width": 18,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 50,
+      "y": 734
+    },
+    "size": {
+      "width": 22,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 385,
+      "y": 218
+    },
+    "size": {
+      "width": 15,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 671,
+      "y": 489
+    },
+    "size": {
+      "width": 10,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 422,
+      "y": 32
+    },
+    "size": {
+      "width": 16,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 583,
+      "y": 152
+    },
+    "size": {
+      "width": 27,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 153,
+      "y": 78
+    },
+    "size": {
+      "width": 26,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 748,
+      "y": 748
+    },
+    "size": {
+      "width": 13,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 909,
+      "y": 163
+    },
+    "size": {
+      "width": 24,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 527,
+      "y": 422
+    },
+    "size": {
+      "width": 10,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 494,
+      "y": 167
+    },
+    "size": {
+      "width": 24,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 612,
+      "y": 748
+    },
+    "size": {
+      "width": 21,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 135,
+      "y": 51
+    },
+    "size": {
+      "width": 18,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 187,
+      "y": 231
+    },
+    "size": {
+      "width": 25,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 899,
+      "y": 338
+    },
+    "size": {
+      "width": 11,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 478,
+      "y": 385
+    },
+    "size": {
+      "width": 10,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "y": 294
+    },
+    "size": {
+      "width": 28,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 432,
+      "y": 645
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 247,
+      "y": 806
+    },
+    "size": {
+      "width": 11,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 8,
+      "y": 606
+    },
+    "size": {
+      "width": 28,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 65,
+      "y": 308
+    },
+    "size": {
+      "width": 23,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "y": 763
+    },
+    "size": {
+      "width": 17,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 175,
+      "y": 461
+    },
+    "size": {
+      "width": 12,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 497,
+      "y": 156
+    },
+    "size": {
+      "width": 12,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 142,
+      "y": 546
+    },
+    "size": {
+      "width": 16,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 10,
+      "y": 517
+    },
+    "size": {
+      "width": 13,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 788,
+      "y": 968
+    },
+    "size": {
+      "width": 26,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "y": 646
+    },
+    "size": {
+      "width": 20,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 388,
+      "y": 640
+    },
+    "size": {
+      "width": 20,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 558,
+      "y": 38
+    },
+    "size": {
+      "width": 12,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 62,
+      "y": 538
+    },
+    "size": {
+      "width": 18,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 965,
+      "y": 378
+    },
+    "size": {
+      "width": 21,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 209,
+      "y": 967
+    },
+    "size": {
+      "width": 17,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 1,
+      "y": 130
+    },
+    "size": {
+      "width": 27,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 354,
+      "y": 230
+    },
+    "size": {
+      "width": 25,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 61,
+      "y": 515
+    },
+    "size": {
+      "width": 16,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 471,
+      "y": 921
+    },
+    "size": {
+      "width": 18,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 155,
+      "y": 233
+    },
+    "size": {
+      "width": 14,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 459,
+      "y": 670
+    },
+    "size": {
+      "width": 27,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 749,
+      "y": 530
+    },
+    "size": {
+      "width": 11,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 354,
+      "y": 248
+    },
+    "size": {
+      "width": 15,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 66,
+      "y": 701
+    },
+    "size": {
+      "width": 27,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 409,
+      "y": 558
+    },
+    "size": {
+      "width": 29,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 653,
+      "y": 377
+    },
+    "size": {
+      "width": 22,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 213,
+      "y": 37
+    },
+    "size": {
+      "width": 27,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 898,
+      "y": 335
+    },
+    "size": {
+      "width": 19,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 721,
+      "y": 93
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 535,
+      "y": 443
+    },
+    "size": {
+      "width": 15,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "y": 99
+    },
+    "size": {
+      "width": 24,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 50,
+      "y": 264
+    },
+    "size": {
+      "width": 14,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 553,
+      "y": 481
+    },
+    "size": {
+      "width": 27,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 579,
+      "y": 329
+    },
+    "size": {
+      "width": 25,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 642,
+      "y": 375
+    },
+    "size": {
+      "width": 15,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 646,
+      "y": 128
+    },
+    "size": {
+      "width": 20,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 435,
+      "y": 243
+    },
+    "size": {
+      "width": 19,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 880,
+      "y": 392
+    },
+    "size": {
+      "width": 21,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 921,
+      "y": 304
+    },
+    "size": {
+      "width": 21,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "y": 949
+    },
+    "size": {
+      "width": 15,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 782,
+      "y": 510
+    },
+    "size": {
+      "width": 14,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 613,
+      "y": 329
+    },
+    "size": {
+      "width": 23,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 234,
+      "y": 84
+    },
+    "size": {
+      "width": 27,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 916,
+      "y": 289
+    },
+    "size": {
+      "width": 13,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 658,
+      "y": 811
+    },
+    "size": {
+      "width": 28,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 649,
+      "y": 879
+    },
+    "size": {
+      "width": 15,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 87,
+      "y": 799
+    },
+    "size": {
+      "width": 12,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 842,
+      "y": 799
+    },
+    "size": {
+      "width": 19,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 687,
+      "y": 759
+    },
+    "size": {
+      "width": 19,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 451,
+      "y": 691
+    },
+    "size": {
+      "width": 27,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 206,
+      "y": 885
+    },
+    "size": {
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 714,
+      "y": 86
+    },
+    "size": {
+      "width": 26,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 68,
+      "y": 130
+    },
+    "size": {
+      "width": 29,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 746,
+      "y": 334
+    },
+    "size": {
+      "width": 22,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 577,
+      "y": 586
+    },
+    "size": {
+      "width": 25,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 720,
+      "y": 220
+    },
+    "size": {
+      "width": 15,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 274,
+      "y": 643
+    },
+    "size": {
+      "width": 14,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 64,
+      "y": 807
+    },
+    "size": {
+      "width": 23,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 147,
+      "y": 123
+    },
+    "size": {
+      "width": 16,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 588,
+      "y": 386
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 867,
+      "y": 508
+    },
+    "size": {
+      "width": 20,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 680,
+      "y": 854
+    },
+    "size": {
+      "width": 10,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 453,
+      "y": 276
+    },
+    "size": {
+      "width": 19,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 725,
+      "y": 780
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 28,
+      "y": 466
+    },
+    "size": {
+      "width": 14,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 583,
+      "y": 189
+    },
+    "size": {
+      "width": 26,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 428,
+      "y": 610
+    },
+    "size": {
+      "width": 25,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "y": 778
+    },
+    "size": {
+      "width": 24,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 86,
+      "y": 820
+    },
+    "size": {
+      "width": 15,
+      "height": 5
+    }
+  },
+  {
+    "coordinates": {
+      "x": 437,
+      "y": 792
+    },
+    "size": {
+      "width": 29,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 296,
+      "y": 203
+    },
+    "size": {
+      "width": 3,
+      "height": 3
+    }
+  },
+  {
+    "coordinates": {
+      "x": 185,
+      "y": 186
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 634,
+      "y": 793
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 850,
+      "y": 108
+    },
+    "size": {
+      "width": 29,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 431,
+      "y": 58
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 541,
+      "y": 603
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 879,
+      "y": 984
+    },
+    "size": {
+      "width": 12,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 29,
+      "y": 712
+    },
+    "size": {
+      "width": 14,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 631,
+      "y": 341
+    },
+    "size": {
+      "width": 18,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 27,
+      "y": 354
+    },
+    "size": {
+      "width": 4,
+      "height": 5
+    }
+  },
+  {
+    "coordinates": {
+      "x": 970,
+      "y": 256
+    },
+    "size": {
+      "width": 21,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 177,
+      "y": 592
+    },
+    "size": {
+      "width": 22,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 54,
+      "y": 303
+    },
+    "size": {
+      "width": 17,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 444,
+      "y": 468
+    },
+    "size": {
+      "width": 14,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 663,
+      "y": 443
+    },
+    "size": {
+      "width": 21,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 128,
+      "y": 710
+    },
+    "size": {
+      "width": 12,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 848,
+      "y": 712
+    },
+    "size": {
+      "width": 23,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 297,
+      "y": 746
+    },
+    "size": {
+      "width": 29,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 951,
+      "y": 894
+    },
+    "size": {
+      "width": 17,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 655,
+      "y": 889
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 59,
+      "y": 91
+    },
+    "size": {
+      "width": 10,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 911,
+      "y": 527
+    },
+    "size": {
+      "width": 11,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 159,
+      "y": 291
+    },
+    "size": {
+      "width": 18,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 472,
+      "y": 889
+    },
+    "size": {
+      "width": 18,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 432,
+      "y": 791
+    },
+    "size": {
+      "width": 20,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 817,
+      "y": 570
+    },
+    "size": {
+      "width": 13,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 392,
+      "y": 109
+    },
+    "size": {
+      "width": 19,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 853,
+      "y": 177
+    },
+    "size": {
+      "width": 11,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 321,
+      "y": 562
+    },
+    "size": {
+      "width": 25,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 174,
+      "y": 840
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 589,
+      "y": 386
+    },
+    "size": {
+      "width": 11,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 82,
+      "y": 797
+    },
+    "size": {
+      "width": 23,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 579,
+      "y": 137
+    },
+    "size": {
+      "width": 14,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "y": 765
+    },
+    "size": {
+      "width": 25,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 600,
+      "y": 932
+    },
+    "size": {
+      "width": 25,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 396,
+      "y": 937
+    },
+    "size": {
+      "width": 22,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "y": 851
+    },
+    "size": {
+      "width": 28,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 904,
+      "y": 119
+    },
+    "size": {
+      "width": 26,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 213,
+      "y": 350
+    },
+    "size": {
+      "width": 17,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 177,
+      "y": 86
+    },
+    "size": {
+      "width": 17,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 560,
+      "y": 826
+    },
+    "size": {
+      "width": 17,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "y": 729
+    },
+    "size": {
+      "width": 28,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 724,
+      "y": 756
+    },
+    "size": {
+      "width": 25,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 219,
+      "y": 648
+    },
+    "size": {
+      "width": 17,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 818,
+      "y": 27
+    },
+    "size": {
+      "width": 12,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 765,
+      "y": 24
+    },
+    "size": {
+      "width": 24,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 335,
+      "y": 420
+    },
+    "size": {
+      "width": 27,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 68,
+      "y": 41
+    },
+    "size": {
+      "width": 24,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "y": 114
+    },
+    "size": {
+      "width": 23,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 1,
+      "y": 908
+    },
+    "size": {
+      "width": 20,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 866,
+      "y": 876
+    },
+    "size": {
+      "width": 24,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 702,
+      "y": 806
+    },
+    "size": {
+      "width": 28,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 911,
+      "y": 118
+    },
+    "size": {
+      "width": 27,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 198,
+      "y": 812
+    },
+    "size": {
+      "width": 22,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 418,
+      "y": 570
+    },
+    "size": {
+      "width": 16,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 65,
+      "y": 531
+    },
+    "size": {
+      "width": 10,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 350,
+      "y": 250
+    },
+    "size": {
+      "width": 18,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 804,
+      "y": 136
+    },
+    "size": {
+      "width": 14,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 825,
+      "y": 169
+    },
+    "size": {
+      "width": 16,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 467,
+      "y": 945
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 269,
+      "y": 159
+    },
+    "size": {
+      "width": 21,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 974,
+      "y": 98
+    },
+    "size": {
+      "width": 17,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "y": 603
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 772,
+      "y": 923
+    },
+    "size": {
+      "width": 19,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 732,
+      "y": 338
+    },
+    "size": {
+      "width": 22,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 244,
+      "y": 674
+    },
+    "size": {
+      "width": 22,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 818,
+      "y": 883
+    },
+    "size": {
+      "width": 24,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 24,
+      "y": 699
+    },
+    "size": {
+      "width": 20,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 734,
+      "y": 587
+    },
+    "size": {
+      "width": 25,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 366,
+      "y": 63
+    },
+    "size": {
+      "width": 10,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 454,
+      "y": 111
+    },
+    "size": {
+      "width": 29,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 735,
+      "y": 170
+    },
+    "size": {
+      "width": 20,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "y": 390
+    },
+    "size": {
+      "width": 23,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 338,
+      "y": 481
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 238,
+      "y": 675
+    },
+    "size": {
+      "width": 26,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 596,
+      "y": 432
+    },
+    "size": {
+      "width": 10,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 63,
+      "y": 803
+    },
+    "size": {
+      "width": 20,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 914,
+      "y": 913
+    },
+    "size": {
+      "width": 17,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 7,
+      "y": 271
+    },
+    "size": {
+      "width": 16,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 453,
+      "y": 464
+    },
+    "size": {
+      "width": 10,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 8,
+      "y": 806
+    },
+    "size": {
+      "width": 16,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 519,
+      "y": 182
+    },
+    "size": {
+      "width": 11,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 15,
+      "y": 516
+    },
+    "size": {
+      "width": 13,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 358,
+      "y": 723
+    },
+    "size": {
+      "width": 23,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 346,
+      "y": 212
+    },
+    "size": {
+      "width": 27,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 745,
+      "y": 743
+    },
+    "size": {
+      "width": 21,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 869,
+      "y": 876
+    },
+    "size": {
+      "width": 20,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 669,
+      "y": 857
+    },
+    "size": {
+      "width": 23,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 441,
+      "y": 700
+    },
+    "size": {
+      "width": 15,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 243,
+      "y": 585
+    },
+    "size": {
+      "width": 13,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 641,
+      "y": 811
+    },
+    "size": {
+      "width": 25,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 254,
+      "y": 226
+    },
+    "size": {
+      "width": 22,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 90,
+      "y": 95
+    },
+    "size": {
+      "width": 27,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 901,
+      "y": 163
+    },
+    "size": {
+      "width": 27,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 909,
+      "y": 339
+    },
+    "size": {
+      "width": 18,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 268,
+      "y": 374
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 704,
+      "y": 327
+    },
+    "size": {
+      "width": 18,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 267,
+      "y": 669
+    },
+    "size": {
+      "width": 11,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 472,
+      "y": 39
+    },
+    "size": {
+      "width": 13,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 902,
+      "y": 481
+    },
+    "size": {
+      "width": 27,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 716,
+      "y": 194
+    },
+    "size": {
+      "width": 14,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 908,
+      "y": 519
+    },
+    "size": {
+      "width": 20,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 34,
+      "y": 445
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "y": 499
+    },
+    "size": {
+      "width": 25,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 613,
+      "y": 631
+    },
+    "size": {
+      "width": 23,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 163,
+      "y": 116
+    },
+    "size": {
+      "width": 18,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 356,
+      "y": 957
+    },
+    "size": {
+      "width": 27,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 733,
+      "y": 511
+    },
+    "size": {
+      "width": 13,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 24,
+      "y": 807
+    },
+    "size": {
+      "width": 10,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 583,
+      "y": 291
+    },
+    "size": {
+      "width": 18,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 136,
+      "y": 32
+    },
+    "size": {
+      "width": 27,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 631,
+      "y": 296
+    },
+    "size": {
+      "width": 29,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 85,
+      "y": 439
+    },
+    "size": {
+      "width": 25,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 145,
+      "y": 805
+    },
+    "size": {
+      "width": 11,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 368,
+      "y": 739
+    },
+    "size": {
+      "width": 26,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 813,
+      "y": 701
+    },
+    "size": {
+      "width": 17,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 611,
+      "y": 358
+    },
+    "size": {
+      "width": 26,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 292,
+      "y": 193
+    },
+    "size": {
+      "width": 24,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 829,
+      "y": 392
+    },
+    "size": {
+      "width": 9,
+      "height": 7
+    }
+  },
+  {
+    "coordinates": {
+      "x": 923,
+      "y": 148
+    },
+    "size": {
+      "width": 10,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 816,
+      "y": 360
+    },
+    "size": {
+      "width": 24,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 406,
+      "y": 710
+    },
+    "size": {
+      "width": 25,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 349,
+      "y": 627
+    },
+    "size": {
+      "width": 10,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "y": 137
+    },
+    "size": {
+      "width": 14,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 415,
+      "y": 456
+    },
+    "size": {
+      "width": 21,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 74,
+      "y": 870
+    },
+    "size": {
+      "width": 18,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 135,
+      "y": 377
+    },
+    "size": {
+      "width": 28,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "y": 570
+    },
+    "size": {
+      "width": 16,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 809,
+      "y": 808
+    },
+    "size": {
+      "width": 23,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 159,
+      "y": 290
+    },
+    "size": {
+      "width": 10,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 791,
+      "y": 533
+    },
+    "size": {
+      "width": 20,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 620,
+      "y": 34
+    },
+    "size": {
+      "width": 17,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 136,
+      "y": 406
+    },
+    "size": {
+      "width": 12,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 416,
+      "y": 44
+    },
+    "size": {
+      "width": 17,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 576,
+      "y": 256
+    },
+    "size": {
+      "width": 26,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 588,
+      "y": 317
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 964,
+      "y": 435
+    },
+    "size": {
+      "width": 21,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 620,
+      "y": 561
+    },
+    "size": {
+      "width": 20,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 167,
+      "y": 849
+    },
+    "size": {
+      "width": 23,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 159,
+      "y": 752
+    },
+    "size": {
+      "width": 25,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 950,
+      "y": 922
+    },
+    "size": {
+      "width": 26,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 584,
+      "y": 587
+    },
+    "size": {
+      "width": 14,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 907,
+      "y": 489
+    },
+    "size": {
+      "width": 11,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 406,
+      "y": 51
+    },
+    "size": {
+      "width": 10,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 21,
+      "y": 779
+    },
+    "size": {
+      "width": 15,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 381,
+      "y": 309
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 240,
+      "y": 348
+    },
+    "size": {
+      "width": 20,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 287,
+      "y": 655
+    },
+    "size": {
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "y": 265
+    },
+    "size": {
+      "width": 18,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 772,
+      "y": 401
+    },
+    "size": {
+      "width": 11,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 187,
+      "y": 808
+    },
+    "size": {
+      "width": 14,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 336,
+      "y": 937
+    },
+    "size": {
+      "width": 21,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 183,
+      "y": 162
+    },
+    "size": {
+      "width": 13,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 86,
+      "y": 305
+    },
+    "size": {
+      "width": 21,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 958,
+      "y": 853
+    },
+    "size": {
+      "width": 17,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 223,
+      "y": 463
+    },
+    "size": {
+      "width": 23,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 0,
+      "y": 498
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 737,
+      "y": 851
+    },
+    "size": {
+      "width": 28,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 411,
+      "y": 349
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 39,
+      "y": 461
+    },
+    "size": {
+      "width": 19,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 610,
+      "y": 268
+    },
+    "size": {
+      "width": 10,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "y": 22
+    },
+    "size": {
+      "width": 18,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 332,
+      "y": 629
+    },
+    "size": {
+      "width": 18,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 20,
+      "y": 781
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 190,
+      "y": 84
+    },
+    "size": {
+      "width": 6,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 961,
+      "y": 260
+    },
+    "size": {
+      "width": 27,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 388,
+      "y": 755
+    },
+    "size": {
+      "width": 10,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 203,
+      "y": 101
+    },
+    "size": {
+      "width": 15,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 606,
+      "y": 187
+    },
+    "size": {
+      "width": 17,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 817,
+      "y": 274
+    },
+    "size": {
+      "width": 29,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 718,
+      "y": 909
+    },
+    "size": {
+      "width": 24,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 154,
+      "y": 706
+    },
+    "size": {
+      "width": 26,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 402,
+      "y": 878
+    },
+    "size": {
+      "width": 20,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 541,
+      "y": 410
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "y": 974
+    },
+    "size": {
+      "width": 14,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 0,
+      "y": 961
+    },
+    "size": {
+      "width": 15,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 33,
+      "y": 681
+    },
+    "size": {
+      "width": 24,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 785,
+      "y": 178
+    },
+    "size": {
+      "width": 27,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 5,
+      "y": 703
+    },
+    "size": {
+      "width": 28,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 703,
+      "y": 783
+    },
+    "size": {
+      "width": 12,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 876,
+      "y": 868
+    },
+    "size": {
+      "width": 24,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 843,
+      "y": 902
+    },
+    "size": {
+      "width": 21,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 143,
+      "y": 795
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 910,
+      "y": 522
+    },
+    "size": {
+      "width": 27,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 403,
+      "y": 250
+    },
+    "size": {
+      "width": 27,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 902,
+      "y": 813
+    },
+    "size": {
+      "width": 24,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 93,
+      "y": 469
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 629,
+      "y": 723
+    },
+    "size": {
+      "width": 23,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 783,
+      "y": 910
+    },
+    "size": {
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 757,
+      "y": 245
+    },
+    "size": {
+      "width": 17,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 818,
+      "y": 366
+    },
+    "size": {
+      "width": 14,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 430,
+      "y": 408
+    },
+    "size": {
+      "width": 25,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 311,
+      "y": 219
+    },
+    "size": {
+      "width": 23,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 875,
+      "y": 870
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 403,
+      "y": 134
+    },
+    "size": {
+      "width": 28,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 663,
+      "y": 863
+    },
+    "size": {
+      "width": 24,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 441,
+      "y": 961
+    },
+    "size": {
+      "width": 15,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 910,
+      "y": 672
+    },
+    "size": {
+      "width": 11,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 187,
+      "y": 187
+    },
+    "size": {
+      "width": 27,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 733,
+      "y": 902
+    },
+    "size": {
+      "width": 15,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 6,
+      "y": 962
+    },
+    "size": {
+      "width": 18,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 96,
+      "y": 126
+    },
+    "size": {
+      "width": 11,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 276,
+      "y": 244
+    },
+    "size": {
+      "width": 24,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 262,
+      "y": 365
+    },
+    "size": {
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 163,
+      "y": 76
+    },
+    "size": {
+      "width": 27,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "y": 893
+    },
+    "size": {
+      "width": 26,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 933,
+      "y": 690
+    },
+    "size": {
+      "width": 15,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 711,
+      "y": 848
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 370,
+      "y": 333
+    },
+    "size": {
+      "width": 26,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 832,
+      "y": 788
+    },
+    "size": {
+      "width": 28,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 0,
+      "y": 422
+    },
+    "size": {
+      "width": 10,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 826,
+      "y": 49
+    },
+    "size": {
+      "width": 24,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 736,
+      "y": 936
+    },
+    "size": {
+      "width": 18,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 536,
+      "y": 601
+    },
+    "size": {
+      "width": 24,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 948,
+      "y": 690
+    },
+    "size": {
+      "width": 28,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 233,
+      "y": 26
+    },
+    "size": {
+      "width": 19,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 956,
+      "y": 237
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 758,
+      "y": 967
+    },
+    "size": {
+      "width": 26,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 241,
+      "y": 202
+    },
+    "size": {
+      "width": 15,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 650,
+      "y": 169
+    },
+    "size": {
+      "width": 10,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 479,
+      "y": 880
+    },
+    "size": {
+      "width": 23,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 257,
+      "y": 161
+    },
+    "size": {
+      "width": 15,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 646,
+      "y": 470
+    },
+    "size": {
+      "width": 22,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 420,
+      "y": 693
+    },
+    "size": {
+      "width": 26,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 370,
+      "y": 913
+    },
+    "size": {
+      "width": 12,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 753,
+      "y": 303
+    },
+    "size": {
+      "width": 24,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 39,
+      "y": 171
+    },
+    "size": {
+      "width": 13,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 647,
+      "y": 155
+    },
+    "size": {
+      "width": 29,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 860,
+      "y": 51
+    },
+    "size": {
+      "width": 13,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 607,
+      "y": 212
+    },
+    "size": {
+      "width": 19,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 658,
+      "y": 487
+    },
+    "size": {
+      "width": 24,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 645,
+      "y": 530
+    },
+    "size": {
+      "width": 17,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 884,
+      "y": 276
+    },
+    "size": {
+      "width": 29,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 860,
+      "y": 187
+    },
+    "size": {
+      "width": 23,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 103,
+      "y": 18
+    },
+    "size": {
+      "width": 10,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 101,
+      "y": 493
+    },
+    "size": {
+      "width": 28,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 944,
+      "y": 752
+    },
+    "size": {
+      "width": 29,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 66,
+      "y": 124
+    },
+    "size": {
+      "width": 12,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 970,
+      "y": 537
+    },
+    "size": {
+      "width": 20,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 890,
+      "y": 788
+    },
+    "size": {
+      "width": 19,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 314,
+      "y": 421
+    },
+    "size": {
+      "width": 14,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 676,
+      "y": 235
+    },
+    "size": {
+      "width": 25,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 415,
+      "y": 395
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "y": 708
+    },
+    "size": {
+      "width": 22,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 459,
+      "y": 946
+    },
+    "size": {
+      "width": 18,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 495,
+      "y": 575
+    },
+    "size": {
+      "width": 13,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 598,
+      "y": 657
+    },
+    "size": {
+      "width": 16,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 475,
+      "y": 873
+    },
+    "size": {
+      "width": 19,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 670,
+      "y": 758
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "y": 691
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "y": 707
+    },
+    "size": {
+      "width": 14,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 130,
+      "y": 720
+    },
+    "size": {
+      "width": 6,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 280,
+      "y": 941
+    },
+    "size": {
+      "width": 14,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 692,
+      "y": 701
+    },
+    "size": {
+      "width": 14,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 624,
+      "y": 78
+    },
+    "size": {
+      "width": 19,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 784,
+      "y": 493
+    },
+    "size": {
+      "width": 23,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "y": 234
+    },
+    "size": {
+      "width": 17,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 467,
+      "y": 402
+    },
+    "size": {
+      "width": 24,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 733,
+      "y": 932
+    },
+    "size": {
+      "width": 11,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 6,
+      "y": 409
+    },
+    "size": {
+      "width": 13,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 44,
+      "y": 240
+    },
+    "size": {
+      "width": 17,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 639,
+      "y": 847
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 221,
+      "y": 226
+    },
+    "size": {
+      "width": 18,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 649,
+      "y": 139
+    },
+    "size": {
+      "width": 26,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 55,
+      "y": 165
+    },
+    "size": {
+      "width": 24,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 661,
+      "y": 528
+    },
+    "size": {
+      "width": 18,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 313,
+      "y": 926
+    },
+    "size": {
+      "width": 26,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 588,
+      "y": 153
+    },
+    "size": {
+      "width": 24,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "y": 920
+    },
+    "size": {
+      "width": 14,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 506,
+      "y": 970
+    },
+    "size": {
+      "width": 28,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 831,
+      "y": 202
+    },
+    "size": {
+      "width": 20,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 365,
+      "y": 9
+    },
+    "size": {
+      "width": 14,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 131,
+      "y": 755
+    },
+    "size": {
+      "width": 24,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 648,
+      "y": 513
+    },
+    "size": {
+      "width": 27,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 740,
+      "y": 357
+    },
+    "size": {
+      "width": 26,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 277,
+      "y": 163
+    },
+    "size": {
+      "width": 28,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 737,
+      "y": 979
+    },
+    "size": {
+      "width": 27,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 154,
+      "y": 521
+    },
+    "size": {
+      "width": 23,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 221,
+      "y": 896
+    },
+    "size": {
+      "width": 12,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 942,
+      "y": 682
+    },
+    "size": {
+      "width": 14,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 649,
+      "y": 861
+    },
+    "size": {
+      "width": 22,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 330,
+      "y": 136
+    },
+    "size": {
+      "width": 19,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 17,
+      "y": 688
+    },
+    "size": {
+      "width": 19,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 618,
+      "y": 75
+    },
+    "size": {
+      "width": 14,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 9,
+      "y": 569
+    },
+    "size": {
+      "width": 14,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 662,
+      "y": 221
+    },
+    "size": {
+      "width": 21,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 972,
+      "y": 552
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 723,
+      "y": 243
+    },
+    "size": {
+      "width": 17,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 414,
+      "y": 132
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 167,
+      "y": 443
+    },
+    "size": {
+      "width": 15,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 251,
+      "y": 284
+    },
+    "size": {
+      "width": 19,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 541,
+      "y": 468
+    },
+    "size": {
+      "width": 18,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 556,
+      "y": 36
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 502,
+      "y": 411
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 855,
+      "y": 147
+    },
+    "size": {
+      "width": 22,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "y": 659
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 214,
+      "y": 483
+    },
+    "size": {
+      "width": 26,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 282,
+      "y": 205
+    },
+    "size": {
+      "width": 27,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 564,
+      "y": 775
+    },
+    "size": {
+      "width": 13,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 953,
+      "y": 930
+    },
+    "size": {
+      "width": 18,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 584,
+      "y": 946
+    },
+    "size": {
+      "width": 12,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 769,
+      "y": 410
+    },
+    "size": {
+      "width": 11,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 188,
+      "y": 186
+    },
+    "size": {
+      "width": 28,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 87,
+      "y": 25
+    },
+    "size": {
+      "width": 19,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 231,
+      "y": 545
+    },
+    "size": {
+      "width": 29,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 755,
+      "y": 239
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 719,
+      "y": 816
+    },
+    "size": {
+      "width": 12,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 461,
+      "y": 619
+    },
+    "size": {
+      "width": 13,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "y": 799
+    },
+    "size": {
+      "width": 18,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 648,
+      "y": 868
+    },
+    "size": {
+      "width": 23,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 246,
+      "y": 278
+    },
+    "size": {
+      "width": 23,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "y": 369
+    },
+    "size": {
+      "width": 12,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 945,
+      "y": 977
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 457,
+      "y": 280
+    },
+    "size": {
+      "width": 13,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 165,
+      "y": 89
+    },
+    "size": {
+      "width": 18,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 548,
+      "y": 501
+    },
+    "size": {
+      "width": 22,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 223,
+      "y": 835
+    },
+    "size": {
+      "width": 18,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 171,
+      "y": 110
+    },
+    "size": {
+      "width": 13,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 598,
+      "y": 751
+    },
+    "size": {
+      "width": 24,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 972,
+      "y": 660
+    },
+    "size": {
+      "width": 23,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 862,
+      "y": 681
+    },
+    "size": {
+      "width": 15,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 790,
+      "y": 785
+    },
+    "size": {
+      "width": 23,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 914,
+      "y": 91
+    },
+    "size": {
+      "width": 13,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 846,
+      "y": 12
+    },
+    "size": {
+      "width": 24,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 938,
+      "y": 291
+    },
+    "size": {
+      "width": 16,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 624,
+      "y": 575
+    },
+    "size": {
+      "width": 21,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 524,
+      "y": 550
+    },
+    "size": {
+      "width": 22,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 872,
+      "y": 401
+    },
+    "size": {
+      "width": 28,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 362,
+      "y": 890
+    },
+    "size": {
+      "width": 11,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 143,
+      "y": 127
+    },
+    "size": {
+      "width": 22,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 622,
+      "y": 334
+    },
+    "size": {
+      "width": 25,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 50,
+      "y": 91
+    },
+    "size": {
+      "width": 22,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 410,
+      "y": 598
+    },
+    "size": {
+      "width": 15,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 823,
+      "y": 2
+    },
+    "size": {
+      "width": 17,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 365,
+      "y": 704
+    },
+    "size": {
+      "width": 15,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 704,
+      "y": 340
+    },
+    "size": {
+      "width": 17,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 28,
+      "y": 725
+    },
+    "size": {
+      "width": 19,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "y": 902
+    },
+    "size": {
+      "width": 18,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 918,
+      "y": 530
+    },
+    "size": {
+      "width": 25,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 294,
+      "y": 93
+    },
+    "size": {
+      "width": 22,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 415,
+      "y": 648
+    },
+    "size": {
+      "width": 22,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "y": 395
+    },
+    "size": {
+      "width": 16,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 153,
+      "y": 236
+    },
+    "size": {
+      "width": 21,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 607,
+      "y": 420
+    },
+    "size": {
+      "width": 27,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 379,
+      "y": 116
+    },
+    "size": {
+      "width": 21,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 523,
+      "y": 50
+    },
+    "size": {
+      "width": 13,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 129,
+      "y": 135
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 336,
+      "y": 298
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 972,
+      "y": 533
+    },
+    "size": {
+      "width": 14,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 323,
+      "y": 203
+    },
+    "size": {
+      "width": 28,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 14,
+      "y": 198
+    },
+    "size": {
+      "width": 17,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 97,
+      "y": 972
+    },
+    "size": {
+      "width": 13,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 392,
+      "y": 296
+    },
+    "size": {
+      "width": 14,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 169,
+      "y": 164
+    },
+    "size": {
+      "width": 24,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 344,
+      "y": 484
+    },
+    "size": {
+      "width": 7,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 263,
+      "y": 770
+    },
+    "size": {
+      "width": 13,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 783,
+      "y": 534
+    },
+    "size": {
+      "width": 16,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 509,
+      "y": 3
+    },
+    "size": {
+      "width": 17,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 208,
+      "y": 925
+    },
+    "size": {
+      "width": 25,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 846,
+      "y": 22
+    },
+    "size": {
+      "width": 15,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 82,
+      "y": 361
+    },
+    "size": {
+      "width": 20,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 258,
+      "y": 761
+    },
+    "size": {
+      "width": 23,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 530,
+      "y": 318
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 750,
+      "y": 753
+    },
+    "size": {
+      "width": 14,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "y": 551
+    },
+    "size": {
+      "width": 18,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 273,
+      "y": 676
+    },
+    "size": {
+      "width": 9,
+      "height": 6
+    }
+  },
+  {
+    "coordinates": {
+      "x": 124,
+      "y": 732
+    },
+    "size": {
+      "width": 18,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 660,
+      "y": 905
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 123,
+      "y": 820
+    },
+    "size": {
+      "width": 12,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "y": 797
+    },
+    "size": {
+      "width": 11,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 427,
+      "y": 454
+    },
+    "size": {
+      "width": 23,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 829,
+      "y": 930
+    },
+    "size": {
+      "width": 10,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 479,
+      "y": 455
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 484,
+      "y": 40
+    },
+    "size": {
+      "width": 15,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 47,
+      "y": 721
+    },
+    "size": {
+      "width": 10,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 708,
+      "y": 425
+    },
+    "size": {
+      "width": 17,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 224,
+      "y": 71
+    },
+    "size": {
+      "width": 25,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "y": 901
+    },
+    "size": {
+      "width": 21,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 296,
+      "y": 575
+    },
+    "size": {
+      "width": 20,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "y": 79
+    },
+    "size": {
+      "width": 25,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 1,
+      "y": 799
+    },
+    "size": {
+      "width": 28,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 699,
+      "y": 254
+    },
+    "size": {
+      "width": 14,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 484,
+      "y": 552
+    },
+    "size": {
+      "width": 24,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 190,
+      "y": 806
+    },
+    "size": {
+      "width": 14,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 119,
+      "y": 426
+    },
+    "size": {
+      "width": 15,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 618,
+      "y": 550
+    },
+    "size": {
+      "width": 25,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 38,
+      "y": 405
+    },
+    "size": {
+      "width": 29,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 855,
+      "y": 126
+    },
+    "size": {
+      "width": 11,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 485,
+      "y": 505
+    },
+    "size": {
+      "width": 19,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 885,
+      "y": 358
+    },
+    "size": {
+      "width": 12,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 563,
+      "y": 315
+    },
+    "size": {
+      "width": 28,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 878,
+      "y": 476
+    },
+    "size": {
+      "width": 15,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 641,
+      "y": 148
+    },
+    "size": {
+      "width": 25,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 459,
+      "y": 272
+    },
+    "size": {
+      "width": 24,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 497,
+      "y": 863
+    },
+    "size": {
+      "width": 21,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 435,
+      "y": 687
+    },
+    "size": {
+      "width": 13,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 657,
+      "y": 625
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 763,
+      "y": 571
+    },
+    "size": {
+      "width": 15,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "y": 591
+    },
+    "size": {
+      "width": 14,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "y": 80
+    },
+    "size": {
+      "width": 23,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 138,
+      "y": 539
+    },
+    "size": {
+      "width": 12,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 567,
+      "y": 478
+    },
+    "size": {
+      "width": 23,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 59,
+      "y": 588
+    },
+    "size": {
+      "width": 6,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 635,
+      "y": 565
+    },
+    "size": {
+      "width": 23,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 262,
+      "y": 580
+    },
+    "size": {
+      "width": 21,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 426,
+      "y": 175
+    },
+    "size": {
+      "width": 21,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 548,
+      "y": 449
+    },
+    "size": {
+      "width": 21,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 118,
+      "y": 720
+    },
+    "size": {
+      "width": 22,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 974,
+      "y": 782
+    },
+    "size": {
+      "width": 15,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 56,
+      "y": 586
+    },
+    "size": {
+      "width": 17,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "y": 49
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 217,
+      "y": 156
+    },
+    "size": {
+      "width": 6,
+      "height": 3
+    }
+  },
+  {
+    "coordinates": {
+      "x": 656,
+      "y": 229
+    },
+    "size": {
+      "width": 23,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 558,
+      "y": 860
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 464,
+      "y": 131
+    },
+    "size": {
+      "width": 26,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 917,
+      "y": 262
+    },
+    "size": {
+      "width": 26,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 243,
+      "y": 230
+    },
+    "size": {
+      "width": 14,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 735,
+      "y": 335
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 467,
+      "y": 929
+    },
+    "size": {
+      "width": 20,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 944,
+      "y": 972
+    },
+    "size": {
+      "width": 16,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 443,
+      "y": 465
+    },
+    "size": {
+      "width": 16,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 85,
+      "y": 432
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 924,
+      "y": 775
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 667,
+      "y": 234
+    },
+    "size": {
+      "width": 11,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 658,
+      "y": 693
+    },
+    "size": {
+      "width": 14,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 532,
+      "y": 892
+    },
+    "size": {
+      "width": 23,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 194,
+      "y": 147
+    },
+    "size": {
+      "width": 28,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 513,
+      "y": 945
+    },
+    "size": {
+      "width": 15,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 801,
+      "y": 905
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 168,
+      "y": 869
+    },
+    "size": {
+      "width": 19,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 532,
+      "y": 432
+    },
+    "size": {
+      "width": 22,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 762,
+      "y": 550
+    },
+    "size": {
+      "width": 27,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 334,
+      "y": 193
+    },
+    "size": {
+      "width": 16,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 71,
+      "y": 785
+    },
+    "size": {
+      "width": 10,
+      "height": 7
+    }
+  },
+  {
+    "coordinates": {
+      "x": 10,
+      "y": 116
+    },
+    "size": {
+      "width": 11,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 229,
+      "y": 421
+    },
+    "size": {
+      "width": 11,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 637,
+      "y": 278
+    },
+    "size": {
+      "width": 17,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 709,
+      "y": 184
+    },
+    "size": {
+      "width": 28,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 179,
+      "y": 698
+    },
+    "size": {
+      "width": 12,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 209,
+      "y": 43
+    },
+    "size": {
+      "width": 24,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 423,
+      "y": 912
+    },
+    "size": {
+      "width": 26,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 187,
+      "y": 363
+    },
+    "size": {
+      "width": 17,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 624,
+      "y": 842
+    },
+    "size": {
+      "width": 22,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 77,
+      "y": 561
+    },
+    "size": {
+      "width": 19,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 422,
+      "y": 345
+    },
+    "size": {
+      "width": 28,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 958,
+      "y": 220
+    },
+    "size": {
+      "width": 21,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 805,
+      "y": 977
+    },
+    "size": {
+      "width": 17,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 905,
+      "y": 579
+    },
+    "size": {
+      "width": 16,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 188,
+      "y": 363
+    },
+    "size": {
+      "width": 10,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "y": 607
+    },
+    "size": {
+      "width": 21,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 769,
+      "y": 213
+    },
+    "size": {
+      "width": 4,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 503,
+      "y": 905
+    },
+    "size": {
+      "width": 19,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 575,
+      "y": 821
+    },
+    "size": {
+      "width": 16,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "y": 974
+    },
+    "size": {
+      "width": 27,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 123,
+      "y": 390
+    },
+    "size": {
+      "width": 27,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 776,
+      "y": 11
+    },
+    "size": {
+      "width": 22,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 921,
+      "y": 770
+    },
+    "size": {
+      "width": 16,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 694,
+      "y": 781
+    },
+    "size": {
+      "width": 13,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 369,
+      "y": 947
+    },
+    "size": {
+      "width": 13,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 971,
+      "y": 677
+    },
+    "size": {
+      "width": 16,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 727,
+      "y": 381
+    },
+    "size": {
+      "width": 3,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 571,
+      "y": 312
+    },
+    "size": {
+      "width": 21,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 520,
+      "y": 646
+    },
+    "size": {
+      "width": 18,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 769,
+      "y": 866
+    },
+    "size": {
+      "width": 7,
+      "height": 9
+    }
+  },
+  {
+    "coordinates": {
+      "x": 677,
+      "y": 919
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 822,
+      "y": 630
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 657,
+      "y": 618
+    },
+    "size": {
+      "width": 15,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 978,
+      "y": 515
+    },
+    "size": {
+      "width": 18,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 13,
+      "y": 230
+    },
+    "size": {
+      "width": 21,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 163,
+      "y": 117
+    },
+    "size": {
+      "width": 21,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 87,
+      "y": 716
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 720,
+      "y": 937
+    },
+    "size": {
+      "width": 22,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 677,
+      "y": 223
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 446,
+      "y": 625
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 509,
+      "y": 431
+    },
+    "size": {
+      "width": 23,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 737,
+      "y": 549
+    },
+    "size": {
+      "width": 13,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 697,
+      "y": 57
+    },
+    "size": {
+      "width": 13,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 734,
+      "y": 869
+    },
+    "size": {
+      "width": 13,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 337,
+      "y": 375
+    },
+    "size": {
+      "width": 12,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 750,
+      "y": 338
+    },
+    "size": {
+      "width": 10,
+      "height": 6
+    }
+  },
+  {
+    "coordinates": {
+      "x": 251,
+      "y": 301
+    },
+    "size": {
+      "width": 18,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 386,
+      "y": 226
+    },
+    "size": {
+      "width": 12,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 514,
+      "y": 908
+    },
+    "size": {
+      "width": 22,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 761,
+      "y": 857
+    },
+    "size": {
+      "width": 19,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 390,
+      "y": 18
+    },
+    "size": {
+      "width": 8,
+      "height": 8
+    }
+  },
+  {
+    "coordinates": {
+      "x": 851,
+      "y": 69
+    },
+    "size": {
+      "width": 14,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 910,
+      "y": 911
+    },
+    "size": {
+      "width": 18,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 506,
+      "y": 308
+    },
+    "size": {
+      "width": 4,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 146,
+      "y": 62
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 421,
+      "y": 30
+    },
+    "size": {
+      "width": 11,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 130,
+      "y": 542
+    },
+    "size": {
+      "width": 24,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 127,
+      "y": 388
+    },
+    "size": {
+      "width": 14,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 860,
+      "y": 908
+    },
+    "size": {
+      "width": 24,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 516,
+      "y": 53
+    },
+    "size": {
+      "width": 15,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 360,
+      "y": 211
+    },
+    "size": {
+      "width": 15,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 227,
+      "y": 314
+    },
+    "size": {
+      "width": 29,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 27,
+      "y": 387
+    },
+    "size": {
+      "width": 29,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 167,
+      "y": 846
+    },
+    "size": {
+      "width": 25,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "y": 646
+    },
+    "size": {
+      "width": 16,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 420,
+      "y": 956
+    },
+    "size": {
+      "width": 18,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 943,
+      "y": 684
+    },
+    "size": {
+      "width": 13,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 84,
+      "y": 816
+    },
+    "size": {
+      "width": 22,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "y": 767
+    },
+    "size": {
+      "width": 28,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 148,
+      "y": 50
+    },
+    "size": {
+      "width": 22,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 931,
+      "y": 159
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 674,
+      "y": 240
+    },
+    "size": {
+      "width": 18,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 390,
+      "y": 643
+    },
+    "size": {
+      "width": 18,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 155,
+      "y": 862
+    },
+    "size": {
+      "width": 17,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 545,
+      "y": 873
+    },
+    "size": {
+      "width": 29,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 851,
+      "y": 192
+    },
+    "size": {
+      "width": 26,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 688,
+      "y": 880
+    },
+    "size": {
+      "width": 26,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "y": 27
+    },
+    "size": {
+      "width": 16,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 755,
+      "y": 555
+    },
+    "size": {
+      "width": 10,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 204,
+      "y": 43
+    },
+    "size": {
+      "width": 26,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 626,
+      "y": 633
+    },
+    "size": {
+      "width": 14,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 315,
+      "y": 709
+    },
+    "size": {
+      "width": 7,
+      "height": 7
+    }
+  },
+  {
+    "coordinates": {
+      "x": 284,
+      "y": 944
+    },
+    "size": {
+      "width": 11,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 361,
+      "y": 115
+    },
+    "size": {
+      "width": 25,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 580,
+      "y": 510
+    },
+    "size": {
+      "width": 22,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 107,
+      "y": 457
+    },
+    "size": {
+      "width": 27,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 728,
+      "y": 227
+    },
+    "size": {
+      "width": 17,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 584,
+      "y": 962
+    },
+    "size": {
+      "width": 18,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 976,
+      "y": 629
+    },
+    "size": {
+      "width": 15,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 100,
+      "y": 655
+    },
+    "size": {
+      "width": 10,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 686,
+      "y": 734
+    },
+    "size": {
+      "width": 10,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 805,
+      "y": 958
+    },
+    "size": {
+      "width": 19,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 870,
+      "y": 254
+    },
+    "size": {
+      "width": 15,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 429,
+      "y": 972
+    },
+    "size": {
+      "width": 16,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 958,
+      "y": 922
+    },
+    "size": {
+      "width": 15,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 773,
+      "y": 150
+    },
+    "size": {
+      "width": 25,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 908,
+      "y": 821
+    },
+    "size": {
+      "width": 19,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 626,
+      "y": 289
+    },
+    "size": {
+      "width": 17,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 582,
+      "y": 546
+    },
+    "size": {
+      "width": 27,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 895,
+      "y": 787
+    },
+    "size": {
+      "width": 29,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 474,
+      "y": 489
+    },
+    "size": {
+      "width": 12,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 736,
+      "y": 241
+    },
+    "size": {
+      "width": 15,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 130,
+      "y": 435
+    },
+    "size": {
+      "width": 25,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 773,
+      "y": 916
+    },
+    "size": {
+      "width": 18,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 597,
+      "y": 882
+    },
+    "size": {
+      "width": 16,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 864,
+      "y": 581
+    },
+    "size": {
+      "width": 18,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 366,
+      "y": 925
+    },
+    "size": {
+      "width": 24,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 139,
+      "y": 266
+    },
+    "size": {
+      "width": 14,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 549,
+      "y": 851
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 812,
+      "y": 483
+    },
+    "size": {
+      "width": 17,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 320,
+      "y": 115
+    },
+    "size": {
+      "width": 14,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 590,
+      "y": 350
+    },
+    "size": {
+      "width": 11,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 930,
+      "y": 121
+    },
+    "size": {
+      "width": 25,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 174,
+      "y": 75
+    },
+    "size": {
+      "width": 23,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 366,
+      "y": 409
+    },
+    "size": {
+      "width": 28,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 795,
+      "y": 169
+    },
+    "size": {
+      "width": 28,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 391,
+      "y": 604
+    },
+    "size": {
+      "width": 26,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 624,
+      "y": 187
+    },
+    "size": {
+      "width": 28,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 322,
+      "y": 365
+    },
+    "size": {
+      "width": 10,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 406,
+      "y": 421
+    },
+    "size": {
+      "width": 15,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 290,
+      "y": 72
+    },
+    "size": {
+      "width": 27,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 811,
+      "y": 161
+    },
+    "size": {
+      "width": 12,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 862,
+      "y": 806
+    },
+    "size": {
+      "width": 15,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 679,
+      "y": 867
+    },
+    "size": {
+      "width": 17,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 242,
+      "y": 661
+    },
+    "size": {
+      "width": 28,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 354,
+      "y": 790
+    },
+    "size": {
+      "width": 17,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 149,
+      "y": 781
+    },
+    "size": {
+      "width": 17,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 355,
+      "y": 92
+    },
+    "size": {
+      "width": 13,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 165,
+      "y": 858
+    },
+    "size": {
+      "width": 26,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 790,
+      "y": 691
+    },
+    "size": {
+      "width": 26,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 124,
+      "y": 926
+    },
+    "size": {
+      "width": 20,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 843,
+      "y": 269
+    },
+    "size": {
+      "width": 14,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 235,
+      "y": 828
+    },
+    "size": {
+      "width": 15,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 896,
+      "y": 146
+    },
+    "size": {
+      "width": 15,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 884,
+      "y": 466
+    },
+    "size": {
+      "width": 26,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 71,
+      "y": 544
+    },
+    "size": {
+      "width": 22,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 218,
+      "y": 161
+    },
+    "size": {
+      "width": 10,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 556,
+      "y": 87
+    },
+    "size": {
+      "width": 24,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 385,
+      "y": 884
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 380,
+      "y": 583
+    },
+    "size": {
+      "width": 18,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 134,
+      "y": 202
+    },
+    "size": {
+      "width": 28,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 971,
+      "y": 617
+    },
+    "size": {
+      "width": 11,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 422,
+      "y": 932
+    },
+    "size": {
+      "width": 11,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 432,
+      "y": 498
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 409,
+      "y": 642
+    },
+    "size": {
+      "width": 17,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 634,
+      "y": 845
+    },
+    "size": {
+      "width": 20,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 583,
+      "y": 515
+    },
+    "size": {
+      "width": 5,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 466,
+      "y": 628
+    },
+    "size": {
+      "width": 23,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "y": 818
+    },
+    "size": {
+      "width": 17,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 453,
+      "y": 667
+    },
+    "size": {
+      "width": 18,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 841,
+      "y": 203
+    },
+    "size": {
+      "width": 11,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 849,
+      "y": 324
+    },
+    "size": {
+      "width": 20,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 549,
+      "y": 325
+    },
+    "size": {
+      "width": 18,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 164,
+      "y": 23
+    },
+    "size": {
+      "width": 20,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 351,
+      "y": 275
+    },
+    "size": {
+      "width": 5,
+      "height": 6
+    }
+  },
+  {
+    "coordinates": {
+      "x": 463,
+      "y": 908
+    },
+    "size": {
+      "width": 17,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 972,
+      "y": 650
+    },
+    "size": {
+      "width": 18,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 249,
+      "y": 808
+    },
+    "size": {
+      "width": 5,
+      "height": 3
+    }
+  },
+  {
+    "coordinates": {
+      "x": 933,
+      "y": 770
+    },
+    "size": {
+      "width": 14,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 626,
+      "y": 471
+    },
+    "size": {
+      "width": 10,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 336,
+      "y": 389
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 238,
+      "y": 209
+    },
+    "size": {
+      "width": 8,
+      "height": 4
+    }
+  },
+  {
+    "coordinates": {
+      "x": 879,
+      "y": 202
+    },
+    "size": {
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 847,
+      "y": 746
+    },
+    "size": {
+      "width": 27,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 102,
+      "y": 796
+    },
+    "size": {
+      "width": 14,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 448,
+      "y": 453
+    },
+    "size": {
+      "width": 11,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 387,
+      "y": 764
+    },
+    "size": {
+      "width": 23,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 597,
+      "y": 438
+    },
+    "size": {
+      "width": 24,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "y": 33
+    },
+    "size": {
+      "width": 15,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 972,
+      "y": 394
+    },
+    "size": {
+      "width": 11,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 623,
+      "y": 939
+    },
+    "size": {
+      "width": 19,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 507,
+      "y": 199
+    },
+    "size": {
+      "width": 17,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 84,
+      "y": 968
+    },
+    "size": {
+      "width": 28,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 765,
+      "y": 619
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 948,
+      "y": 493
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 365,
+      "y": 906
+    },
+    "size": {
+      "width": 14,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 741,
+      "y": 536
+    },
+    "size": {
+      "width": 25,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 87,
+      "y": 479
+    },
+    "size": {
+      "width": 10,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 963,
+      "y": 504
+    },
+    "size": {
+      "width": 14,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 648,
+      "y": 838
+    },
+    "size": {
+      "width": 19,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 580,
+      "y": 261
+    },
+    "size": {
+      "width": 16,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 579,
+      "y": 150
+    },
+    "size": {
+      "width": 24,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 395,
+      "y": 113
+    },
+    "size": {
+      "width": 13,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 196,
+      "y": 22
+    },
+    "size": {
+      "width": 14,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 19,
+      "y": 352
+    },
+    "size": {
+      "width": 18,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 875,
+      "y": 81
+    },
+    "size": {
+      "width": 13,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 17,
+      "y": 577
+    },
+    "size": {
+      "width": 25,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 843,
+      "y": 221
+    },
+    "size": {
+      "width": 10,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 825,
+      "y": 165
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 575,
+      "y": 308
+    },
+    "size": {
+      "width": 13,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 867,
+      "y": 652
+    },
+    "size": {
+      "width": 15,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "y": 809
+    },
+    "size": {
+      "width": 19,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 724,
+      "y": 379
+    },
+    "size": {
+      "width": 13,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 9,
+      "y": 573
+    },
+    "size": {
+      "width": 13,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 419,
+      "y": 752
+    },
+    "size": {
+      "width": 25,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 13,
+      "y": 607
+    },
+    "size": {
+      "width": 29,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 963,
+      "y": 938
+    },
+    "size": {
+      "width": 14,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 908,
+      "y": 724
+    },
+    "size": {
+      "width": 15,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 507,
+      "y": 36
+    },
+    "size": {
+      "width": 28,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 168,
+      "y": 712
+    },
+    "size": {
+      "width": 26,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 925,
+      "y": 146
+    },
+    "size": {
+      "width": 21,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 155,
+      "y": 583
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 758,
+      "y": 731
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 666,
+      "y": 903
+    },
+    "size": {
+      "width": 14,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 375,
+      "y": 649
+    },
+    "size": {
+      "width": 16,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 658,
+      "y": 151
+    },
+    "size": {
+      "width": 21,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 393,
+      "y": 58
+    },
+    "size": {
+      "width": 24,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 57,
+      "y": 976
+    },
+    "size": {
+      "width": 10,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 14,
+      "y": 933
+    },
+    "size": {
+      "width": 10,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 293,
+      "y": 190
+    },
+    "size": {
+      "width": 12,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 672,
+      "y": 238
+    },
+    "size": {
+      "width": 16,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 388,
+      "y": 15
+    },
+    "size": {
+      "width": 13,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 698,
+      "y": 823
+    },
+    "size": {
+      "width": 25,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 405,
+      "y": 345
+    },
+    "size": {
+      "width": 20,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 418,
+      "y": 231
+    },
+    "size": {
+      "width": 20,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 203,
+      "y": 886
+    },
+    "size": {
+      "width": 23,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 798,
+      "y": 475
+    },
+    "size": {
+      "width": 12,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 836,
+      "y": 184
+    },
+    "size": {
+      "width": 13,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 286,
+      "y": 617
+    },
+    "size": {
+      "width": 22,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 422,
+      "y": 210
+    },
+    "size": {
+      "width": 26,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 304,
+      "y": 267
+    },
+    "size": {
+      "width": 3,
+      "height": 7
+    }
+  },
+  {
+    "coordinates": {
+      "x": 483,
+      "y": 170
+    },
+    "size": {
+      "width": 21,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 118,
+      "y": 29
+    },
+    "size": {
+      "width": 14,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 559,
+      "y": 371
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 817,
+      "y": 152
+    },
+    "size": {
+      "width": 10,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 111,
+      "y": 826
+    },
+    "size": {
+      "width": 13,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 366,
+      "y": 243
+    },
+    "size": {
+      "width": 12,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 329,
+      "y": 549
+    },
+    "size": {
+      "width": 18,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 248,
+      "y": 682
+    },
+    "size": {
+      "width": 10,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 416,
+      "y": 375
+    },
+    "size": {
+      "width": 17,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 652,
+      "y": 44
+    },
+    "size": {
+      "width": 20,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 628,
+      "y": 971
+    },
+    "size": {
+      "width": 3,
+      "height": 6
+    }
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "y": 155
+    },
+    "size": {
+      "width": 17,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 616,
+      "y": 460
+    },
+    "size": {
+      "width": 28,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 359,
+      "y": 407
+    },
+    "size": {
+      "width": 10,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 840,
+      "y": 907
+    },
+    "size": {
+      "width": 18,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 267,
+      "y": 590
+    },
+    "size": {
+      "width": 16,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 623,
+      "y": 367
+    },
+    "size": {
+      "width": 17,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "y": 574
+    },
+    "size": {
+      "width": 28,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 189,
+      "y": 368
+    },
+    "size": {
+      "width": 24,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 949,
+      "y": 375
+    },
+    "size": {
+      "width": 22,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 382,
+      "y": 946
+    },
+    "size": {
+      "width": 20,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 186,
+      "y": 952
+    },
+    "size": {
+      "width": 15,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 562,
+      "y": 698
+    },
+    "size": {
+      "width": 14,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 102,
+      "y": 933
+    },
+    "size": {
+      "width": 28,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 731,
+      "y": 351
+    },
+    "size": {
+      "width": 24,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 695,
+      "y": 70
+    },
+    "size": {
+      "width": 18,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 313,
+      "y": 307
+    },
+    "size": {
+      "width": 13,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 589,
+      "y": 889
+    },
+    "size": {
+      "width": 20,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 937,
+      "y": 167
+    },
+    "size": {
+      "width": 29,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 816,
+      "y": 39
+    },
+    "size": {
+      "width": 12,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "y": 882
+    },
+    "size": {
+      "width": 19,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 624,
+      "y": 35
+    },
+    "size": {
+      "width": 24,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 47,
+      "y": 172
+    },
+    "size": {
+      "width": 26,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 436,
+      "y": 182
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 786,
+      "y": 610
+    },
+    "size": {
+      "width": 23,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 232,
+      "y": 206
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 66,
+      "y": 782
+    },
+    "size": {
+      "width": 21,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 287,
+      "y": 743
+    },
+    "size": {
+      "width": 26,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 448,
+      "y": 693
+    },
+    "size": {
+      "width": 28,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "y": 169
+    },
+    "size": {
+      "width": 18,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 11,
+      "y": 593
+    },
+    "size": {
+      "width": 15,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 8,
+      "y": 950
+    },
+    "size": {
+      "width": 6,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 546,
+      "y": 125
+    },
+    "size": {
+      "width": 19,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 865,
+      "y": 750
+    },
+    "size": {
+      "width": 15,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 354,
+      "y": 207
+    },
+    "size": {
+      "width": 18,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 202,
+      "y": 823
+    },
+    "size": {
+      "width": 18,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 570,
+      "y": 369
+    },
+    "size": {
+      "width": 18,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 311,
+      "y": 60
+    },
+    "size": {
+      "width": 11,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 626,
+      "y": 969
+    },
+    "size": {
+      "width": 10,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 252,
+      "y": 970
+    },
+    "size": {
+      "width": 23,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 118,
+      "y": 116
+    },
+    "size": {
+      "width": 17,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 796,
+      "y": 187
+    },
+    "size": {
+      "width": 21,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 277,
+      "y": 572
+    },
+    "size": {
+      "width": 28,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 804,
+      "y": 581
+    },
+    "size": {
+      "width": 22,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 728,
+      "y": 417
+    },
+    "size": {
+      "width": 10,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 577,
+      "y": 958
+    },
+    "size": {
+      "width": 23,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 874,
+      "y": 299
+    },
+    "size": {
+      "width": 25,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 239,
+      "y": 217
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 196,
+      "y": 781
+    },
+    "size": {
+      "width": 11,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 705,
+      "y": 842
+    },
+    "size": {
+      "width": 24,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 251,
+      "y": 757
+    },
+    "size": {
+      "width": 27,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 463,
+      "y": 379
+    },
+    "size": {
+      "width": 22,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 457,
+      "y": 265
+    },
+    "size": {
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 827,
+      "y": 388
+    },
+    "size": {
+      "width": 26,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 410,
+      "y": 372
+    },
+    "size": {
+      "width": 14,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 56,
+      "y": 812
+    },
+    "size": {
+      "width": 22,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 839,
+      "y": 14
+    },
+    "size": {
+      "width": 10,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 158,
+      "y": 691
+    },
+    "size": {
+      "width": 23,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 771,
+      "y": 577
+    },
+    "size": {
+      "width": 20,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 505,
+      "y": 554
+    },
+    "size": {
+      "width": 17,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 484,
+      "y": 506
+    },
+    "size": {
+      "width": 23,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 895,
+      "y": 794
+    },
+    "size": {
+      "width": 28,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 228,
+      "y": 565
+    },
+    "size": {
+      "width": 16,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 601,
+      "y": 965
+    },
+    "size": {
+      "width": 27,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 947,
+      "y": 171
+    },
+    "size": {
+      "width": 17,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "y": 699
+    },
+    "size": {
+      "width": 11,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 360,
+      "y": 51
+    },
+    "size": {
+      "width": 18,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 850,
+      "y": 528
+    },
+    "size": {
+      "width": 29,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "y": 220
+    },
+    "size": {
+      "width": 21,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 519,
+      "y": 11
+    },
+    "size": {
+      "width": 19,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 711,
+      "y": 787
+    },
+    "size": {
+      "width": 17,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 717,
+      "y": 412
+    },
+    "size": {
+      "width": 16,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 645,
+      "y": 855
+    },
+    "size": {
+      "width": 11,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 653,
+      "y": 151
+    },
+    "size": {
+      "width": 15,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 579,
+      "y": 531
+    },
+    "size": {
+      "width": 26,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "y": 83
+    },
+    "size": {
+      "width": 17,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 852,
+      "y": 712
+    },
+    "size": {
+      "width": 16,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 677,
+      "y": 237
+    },
+    "size": {
+      "width": 27,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 340,
+      "y": 657
+    },
+    "size": {
+      "width": 19,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 275,
+      "y": 187
+    },
+    "size": {
+      "width": 28,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 98,
+      "y": 407
+    },
+    "size": {
+      "width": 12,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 220,
+      "y": 931
+    },
+    "size": {
+      "width": 25,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 957,
+      "y": 368
+    },
+    "size": {
+      "width": 23,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 440,
+      "y": 753
+    },
+    "size": {
+      "width": 27,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 472,
+      "y": 217
+    },
+    "size": {
+      "width": 13,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 869,
+      "y": 268
+    },
+    "size": {
+      "width": 16,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 637,
+      "y": 578
+    },
+    "size": {
+      "width": 27,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 916,
+      "y": 587
+    },
+    "size": {
+      "width": 29,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 58,
+      "y": 315
+    },
+    "size": {
+      "width": 24,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 198,
+      "y": 884
+    },
+    "size": {
+      "width": 10,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 458,
+      "y": 399
+    },
+    "size": {
+      "width": 16,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 442,
+      "y": 731
+    },
+    "size": {
+      "width": 10,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 602,
+      "y": 239
+    },
+    "size": {
+      "width": 20,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 302,
+      "y": 295
+    },
+    "size": {
+      "width": 16,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 380,
+      "y": 822
+    },
+    "size": {
+      "width": 25,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 567,
+      "y": 219
+    },
+    "size": {
+      "width": 15,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 795,
+      "y": 302
+    },
+    "size": {
+      "width": 17,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 82,
+      "y": 698
+    },
+    "size": {
+      "width": 20,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 617,
+      "y": 834
+    },
+    "size": {
+      "width": 18,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 210,
+      "y": 217
+    },
+    "size": {
+      "width": 25,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 665,
+      "y": 521
+    },
+    "size": {
+      "width": 11,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "y": 29
+    },
+    "size": {
+      "width": 14,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 147,
+      "y": 266
+    },
+    "size": {
+      "width": 22,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 30,
+      "y": 830
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 597,
+      "y": 194
+    },
+    "size": {
+      "width": 26,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 784,
+      "y": 32
+    },
+    "size": {
+      "width": 24,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 95,
+      "y": 97
+    },
+    "size": {
+      "width": 19,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 688,
+      "y": 769
+    },
+    "size": {
+      "width": 19,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 60,
+      "y": 977
+    },
+    "size": {
+      "width": 22,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 480,
+      "y": 493
+    },
+    "size": {
+      "width": 28,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 357,
+      "y": 723
+    },
+    "size": {
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 145,
+      "y": 939
+    },
+    "size": {
+      "width": 29,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 427,
+      "y": 255
+    },
+    "size": {
+      "width": 14,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 636,
+      "y": 625
+    },
+    "size": {
+      "width": 27,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 109,
+      "y": 645
+    },
+    "size": {
+      "width": 15,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 873,
+      "y": 182
+    },
+    "size": {
+      "width": 21,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 676,
+      "y": 504
+    },
+    "size": {
+      "width": 10,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 469,
+      "y": 251
+    },
+    "size": {
+      "width": 10,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "y": 635
+    },
+    "size": {
+      "width": 21,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 129,
+      "y": 132
+    },
+    "size": {
+      "width": 15,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "y": 767
+    },
+    "size": {
+      "width": 22,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 751,
+      "y": 347
+    },
+    "size": {
+      "width": 18,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 316,
+      "y": 287
+    },
+    "size": {
+      "width": 20,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 808,
+      "y": 577
+    },
+    "size": {
+      "width": 25,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 940,
+      "y": 272
+    },
+    "size": {
+      "width": 19,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 253,
+      "y": 767
+    },
+    "size": {
+      "width": 4,
+      "height": 5
+    }
+  },
+  {
+    "coordinates": {
+      "x": 504,
+      "y": 414
+    },
+    "size": {
+      "width": 20,
+      "height": 5
+    }
+  },
+  {
+    "coordinates": {
+      "x": 574,
+      "y": 762
+    },
+    "size": {
+      "width": 11,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 430,
+      "y": 726
+    },
+    "size": {
+      "width": 24,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 470,
+      "y": 267
+    },
+    "size": {
+      "width": 15,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 822,
+      "y": 951
+    },
+    "size": {
+      "width": 26,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 829,
+      "y": 234
+    },
+    "size": {
+      "width": 25,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 324,
+      "y": 375
+    },
+    "size": {
+      "width": 25,
+      "height": 25
+    }
+  },
+  {
+    "coordinates": {
+      "x": 670,
+      "y": 234
+    },
+    "size": {
+      "width": 11,
+      "height": 12
+    }
+  },
+  {
+    "coordinates": {
+      "x": 859,
+      "y": 138
+    },
+    "size": {
+      "width": 28,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 669,
+      "y": 681
+    },
+    "size": {
+      "width": 12,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 901,
+      "y": 338
+    },
+    "size": {
+      "width": 17,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 58,
+      "y": 805
+    },
+    "size": {
+      "width": 21,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 868,
+      "y": 353
+    },
+    "size": {
+      "width": 20,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 861,
+      "y": 470
+    },
+    "size": {
+      "width": 28,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 700,
+      "y": 78
+    },
+    "size": {
+      "width": 17,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 967,
+      "y": 117
+    },
+    "size": {
+      "width": 20,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 395,
+      "y": 130
+    },
+    "size": {
+      "width": 12,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 764,
+      "y": 264
+    },
+    "size": {
+      "width": 28,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 327,
+      "y": 115
+    },
+    "size": {
+      "width": 20,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "y": 105
+    },
+    "size": {
+      "width": 26,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 894,
+      "y": 132
+    },
+    "size": {
+      "width": 13,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 39,
+      "y": 177
+    },
+    "size": {
+      "width": 19,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 437,
+      "y": 857
+    },
+    "size": {
+      "width": 13,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 483,
+      "y": 459
+    },
+    "size": {
+      "width": 9,
+      "height": 3
+    }
+  },
+  {
+    "coordinates": {
+      "x": 554,
+      "y": 473
+    },
+    "size": {
+      "width": 25,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 17,
+      "y": 471
+    },
+    "size": {
+      "width": 24,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 472,
+      "y": 60
+    },
+    "size": {
+      "width": 16,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 636,
+      "y": 537
+    },
+    "size": {
+      "width": 17,
+      "height": 29
+    }
+  },
+  {
+    "coordinates": {
+      "x": 408,
+      "y": 327
+    },
+    "size": {
+      "width": 16,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 679,
+      "y": 669
+    },
+    "size": {
+      "width": 25,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 374,
+      "y": 878
+    },
+    "size": {
+      "width": 13,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 873,
+      "y": 977
+    },
+    "size": {
+      "width": 14,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 439,
+      "y": 181
+    },
+    "size": {
+      "width": 10,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 602,
+      "y": 310
+    },
+    "size": {
+      "width": 25,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 275,
+      "y": 803
+    },
+    "size": {
+      "width": 29,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 440,
+      "y": 745
+    },
+    "size": {
+      "width": 18,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 161,
+      "y": 72
+    },
+    "size": {
+      "width": 22,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 500,
+      "y": 174
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 644,
+      "y": 224
+    },
+    "size": {
+      "width": 11,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 264,
+      "y": 168
+    },
+    "size": {
+      "width": 15,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 859,
+      "y": 804
+    },
+    "size": {
+      "width": 24,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 568,
+      "y": 812
+    },
+    "size": {
+      "width": 23,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 201,
+      "y": 779
+    },
+    "size": {
+      "width": 20,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "y": 166
+    },
+    "size": {
+      "width": 13,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 204,
+      "y": 153
+    },
+    "size": {
+      "width": 26,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 650,
+      "y": 384
+    },
+    "size": {
+      "width": 12,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 28,
+      "y": 489
+    },
+    "size": {
+      "width": 12,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 560,
+      "y": 126
+    },
+    "size": {
+      "width": 27,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 736,
+      "y": 763
+    },
+    "size": {
+      "width": 19,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 567,
+      "y": 208
+    },
+    "size": {
+      "width": 26,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 517,
+      "y": 972
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 238,
+      "y": 807
+    },
+    "size": {
+      "width": 23,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 249,
+      "y": 360
+    },
+    "size": {
+      "width": 28,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 968,
+      "y": 831
+    },
+    "size": {
+      "width": 26,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 366,
+      "y": 27
+    },
+    "size": {
+      "width": 25,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 416,
+      "y": 42
+    },
+    "size": {
+      "width": 28,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 810,
+      "y": 806
+    },
+    "size": {
+      "width": 17,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 764,
+      "y": 897
+    },
+    "size": {
+      "width": 15,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 30,
+      "y": 339
+    },
+    "size": {
+      "width": 12,
+      "height": 28
+    }
+  },
+  {
+    "coordinates": {
+      "x": 347,
+      "y": 641
+    },
+    "size": {
+      "width": 29,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 333,
+      "y": 805
+    },
+    "size": {
+      "width": 27,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 913,
+      "y": 98
+    },
+    "size": {
+      "width": 12,
+      "height": 16
+    }
+  },
+  {
+    "coordinates": {
+      "x": 481,
+      "y": 344
+    },
+    "size": {
+      "width": 18,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 41,
+      "y": 225
+    },
+    "size": {
+      "width": 15,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 224,
+      "y": 109
+    },
+    "size": {
+      "width": 11,
+      "height": 17
+    }
+  },
+  {
+    "coordinates": {
+      "x": 611,
+      "y": 275
+    },
+    "size": {
+      "width": 21,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 340,
+      "y": 814
+    },
+    "size": {
+      "width": 14,
+      "height": 18
+    }
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "y": 188
+    },
+    "size": {
+      "width": 29,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 749,
+      "y": 324
+    },
+    "size": {
+      "width": 20,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 645,
+      "y": 539
+    },
+    "size": {
+      "width": 13,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 768,
+      "y": 364
+    },
+    "size": {
+      "width": 15,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 966,
+      "y": 789
+    },
+    "size": {
+      "width": 14,
+      "height": 21
+    }
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "y": 27
+    },
+    "size": {
+      "width": 10,
+      "height": 20
+    }
+  },
+  {
+    "coordinates": {
+      "x": 685,
+      "y": 204
+    },
+    "size": {
+      "width": 19,
+      "height": 27
+    }
+  },
+  {
+    "coordinates": {
+      "x": 667,
+      "y": 533
+    },
+    "size": {
+      "width": 6,
+      "height": 3
+    }
+  },
+  {
+    "coordinates": {
+      "x": 764,
+      "y": 927
+    },
+    "size": {
+      "width": 27,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 389,
+      "y": 103
+    },
+    "size": {
+      "width": 22,
+      "height": 22
+    }
+  },
+  {
+    "coordinates": {
+      "x": 878,
+      "y": 736
+    },
+    "size": {
+      "width": 28,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 529,
+      "y": 565
+    },
+    "size": {
+      "width": 23,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 273,
+      "y": 958
+    },
+    "size": {
+      "width": 12,
+      "height": 26
+    }
+  },
+  {
+    "coordinates": {
+      "x": 422,
+      "y": 44
+    },
+    "size": {
+      "width": 18,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 162,
+      "y": 850
+    },
+    "size": {
+      "width": 19,
+      "height": 24
+    }
+  },
+  {
+    "coordinates": {
+      "x": 856,
+      "y": 461
+    },
+    "size": {
+      "width": 27,
+      "height": 13
+    }
+  },
+  {
+    "coordinates": {
+      "x": 97,
+      "y": 370
+    },
+    "size": {
+      "width": 16,
+      "height": 11
+    }
+  },
+  {
+    "coordinates": {
+      "x": 392,
+      "y": 822
+    },
+    "size": {
+      "width": 18,
+      "height": 10
+    }
+  },
+  {
+    "coordinates": {
+      "x": 302,
+      "y": 427
+    },
+    "size": {
+      "width": 24,
+      "height": 15
+    }
+  },
+  {
+    "coordinates": {
+      "x": 500,
+      "y": 890
+    },
+    "size": {
+      "width": 17,
+      "height": 23
+    }
+  },
+  {
+    "coordinates": {
+      "x": 138,
+      "y": 789
+    },
+    "size": {
+      "width": 20,
+      "height": 14
+    }
+  },
+  {
+    "coordinates": {
+      "x": 217,
+      "y": 776
+    },
+    "size": {
+      "width": 25,
+      "height": 19
+    }
+  },
+  {
+    "coordinates": {
+      "x": 923,
+      "y": 156
+    },
+    "size": {
+      "width": 16,
+      "height": 21
+    }
+  }
+]
