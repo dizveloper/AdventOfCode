@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	os "os"
+	"os"
 
 	days "./days"
 )
