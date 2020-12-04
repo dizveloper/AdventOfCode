@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// One : advent of code, day one part1 and 2.
+// One : advent of code, day one part1 and 2
 func One() {
 	inputSlice := []int{
 		1883,
