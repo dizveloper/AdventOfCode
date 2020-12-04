@@ -345,8 +345,15 @@ func Three() {
 		trees = append(trees, treesAtSlope)
 	}
 
+	multiplied := 1
+	for tree := 0; tree < len(trees); tree++ {
+		multiplied = multiplied * trees[tree]
+	}
+
 	fmt.Print("Trees encountered: ")
 	fmt.Println(trees)
+	fmt.Print("Trees multiplied: ")
+	fmt.Println(multiplied)
 }
 
 func treesInSlope(grid []string, right int, down int) int {
