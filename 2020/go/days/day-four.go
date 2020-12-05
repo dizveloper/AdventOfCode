@@ -1214,52 +1214,29 @@ func Four() {
 }
 
 func isFieldValid(field string, passport string) bool {
-	fmt.Println("-----------------------")
 	passport = strings.Replace(passport, "\n", " ", -1)
 	fields := strings.Split(passport, " ")
 	for fieldIn := 0; fieldIn < len(fields); fieldIn++ {
 		fields[fieldIn] = strings.Replace(fields[fieldIn], "\t", "", -1)
 		if strings.Contains(fields[fieldIn], field) {
 			fields[fieldIn] = strings.Split(fields[fieldIn], ":")[1]
-			// fmt.Println(fields[fieldIn])
 			switch field {
 			case "byr":
-				fmt.Println("byr")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(byr(fields[fieldIn]))
 				return byr(fields[fieldIn])
 			case "iyr":
-				fmt.Println("iyr")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(iyr(fields[fieldIn]))
 				return iyr(fields[fieldIn])
 			case "eyr":
-				fmt.Println("eyr")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(eyr(fields[fieldIn]))
 				return eyr(fields[fieldIn])
 			case "hgt":
-				fmt.Println("hgt")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(hgt(fields[fieldIn]))
 				return hgt(fields[fieldIn])
 			case "ecl":
-				fmt.Println("ecl")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(ecl(fields[fieldIn]))
 				return ecl(fields[fieldIn])
 			case "pid":
-				fmt.Println("pid")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(pid(fields[fieldIn]))
 				return pid(fields[fieldIn])
 			case "hcl":
-				fmt.Println("hcl")
-				fmt.Println(fields[fieldIn])
-				fmt.Println(hcl(fields[fieldIn]))
 				return hcl(fields[fieldIn])
 			case "cid":
-				fmt.Println("cool")
+				return true
 			default:
 				fmt.Println("not a field")
 			}
