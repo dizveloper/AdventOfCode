@@ -17,7 +17,7 @@ func Four() {
 		"ecl",
 		"pid",
 		"hcl",
-		// "cid",
+		"cid",
 	}
 
 	input := `iyr:2015 cid:189 ecl:oth byr:1947 hcl:#6c4ab1 eyr:2026
@@ -1195,6 +1195,10 @@ func Four() {
 
 	for i := 0; i < len(passports); i++ {
 		for field := 0; field < len(requiredFields); field++ {
+			if requiredFields[field] == "cid" {
+				continue
+			}
+
 			if !strings.Contains(passports[i], requiredFields[field]) {
 				completeMatch = false
 				break
