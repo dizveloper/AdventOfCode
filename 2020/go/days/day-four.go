@@ -9,6 +9,7 @@ import (
 	inputs "../inputs"
 )
 
+// https://adventofcode.com/2020/day/4
 // Four : advent of code, day four part1 and 2
 func Four() {
 	requiredFields := []string{

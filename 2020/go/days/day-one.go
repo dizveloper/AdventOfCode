@@ -6,6 +6,7 @@ import (
 	inputs "../inputs"
 )
 
+// https://adventofcode.com/2020/day/1
 // One : advent of code, day one part1 and 2
 func One() {
 	inputSlice := inputs.Day1

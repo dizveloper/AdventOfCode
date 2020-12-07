@@ -11,6 +11,7 @@ import (
 var bagMap = make(map[string][]string)
 var numberOfColorsThatHoldGold = []string{}
 
+// https://adventofcode.com/2020/day/7
 // Seven : advent of code, day seven part1 and 2
 func Seven() {
 	input := inputs.Day7
