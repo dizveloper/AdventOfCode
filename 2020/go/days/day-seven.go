@@ -65,10 +65,8 @@ func bagInBagCalculator(colorToStart string) int {
 	inThatBag := bagMap[colorToStart]
 
 	for within := range inThatBag {
-		if !strings.Contains(inThatBag[within], "noother") {
-			splitNum, color := splitNumAndColor(inThatBag[within])
-			totalBagsInBags[color] = []int{splitNum + splitNum*bagsInThatOne(color)}
-		}
+		splitNum, color := splitNumAndColor(inThatBag[within])
+		totalBagsInBags[color] = []int{splitNum + splitNum*bagsInThisOne(color)}
 	}
 
 	total := 0
@@ -78,15 +76,13 @@ func bagInBagCalculator(colorToStart string) int {
 	return total
 }
 
-func bagsInThatOne(color string) int {
+func bagsInThisOne(color string) int {
 	totes := 0
 	inThatBag := bagMap[color]
 
 	for within := range inThatBag {
-		if !strings.Contains(inThatBag[within], "noother") {
-			splitNum, nextColor := splitNumAndColor(inThatBag[within])
-			totes = totes + splitNum + splitNum*bagsInThatOne(nextColor)
-		}
+		splitNum, nextColor := splitNumAndColor(inThatBag[within])
+		totes = totes + splitNum + splitNum*bagsInThisOne(nextColor)
 	}
 
 	return totes
@@ -106,7 +102,6 @@ func doesContain(sliceToCheckFrom []string, stringToCheck string) bool {
 			return true
 		}
 	}
-
 	return false
 }
 
