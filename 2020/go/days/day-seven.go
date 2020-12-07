@@ -3,8 +3,6 @@ package days
 import (
 	"fmt"
 	"strings"
-	"sync"
-	"time"
 
 	inputs "../inputs"
 )
@@ -25,7 +23,7 @@ func Seven() {
 	// faded blue bags contain no other bags.
 	// dotted black bags contain no other bags.`
 
-	// I could have used NewReplacer here but I already wrote this and it works (:)
+	// I could have used NewReplacer here but I already wrote this and it works :)
 	inputCleanUp :=
 		strings.Replace(
 			strings.Replace(
@@ -39,37 +37,30 @@ func Seven() {
 		bagMap[temp[0]] = temp[1]
 	}
 
-	g := &sync.WaitGroup{}
-	g.Add(10)
-	colorChecker([]string{"shinygold"}, "", g)
-	g.Wait()
-
-	time.Sleep(time.Millisecond * 1000)
+	colorChecker([]string{"shinygold"}, "")
 
 	fmt.Print("(Part 1) - Total number of colors that can hold a shiny gold bag: ")
-	fmt.Println(numberOfColorsThatHoldGold) //105 >= and >=258
+	fmt.Println(numberOfColorsThatHoldGold)
 }
 
-func colorChecker(colorsToCheck []string, alreadyConsidered string, g *sync.WaitGroup) {
-	defer g.Done()
+func colorChecker(colorsToCheck []string, alreadyConsidered string) {
+	colorsToCheckAgain := []string{}
 
-	colorsToConsider := []string{}
 	for color := range colorsToCheck {
-
 		for k := range bagMap {
 			if strings.Contains(bagMap[k], colorsToCheck[color]) && !strings.Contains(alreadyConsidered, bagMap[k]) {
-				colorsToConsider = append(colorsToConsider, k)
+				numberOfColorsThatHoldGold++
+				colorsToCheckAgain = append(colorsToCheckAgain, k)
 				alreadyConsidered = alreadyConsidered + bagMap[k]
 			}
 		}
 	}
 
-	colorsToConsider = removeDuplicateValues(colorsToConsider)
-	numberOfColorsThatHoldGold = numberOfColorsThatHoldGold + len(colorsToConsider)
+	colorsToCheckAgain = removeDuplicateValues(colorsToCheckAgain)
 
-	fmt.Println(len(colorsToConsider))
-	if len(colorsToConsider) > 0 {
-		go colorChecker(colorsToConsider, alreadyConsidered, g)
+	fmt.Println(len(colorsToCheck))
+	if len(colorsToCheckAgain) > 0 {
+		colorChecker(colorsToCheckAgain, alreadyConsidered)
 	} else {
 		return
 	}
