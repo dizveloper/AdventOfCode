@@ -35,15 +35,7 @@ func Seven() {
 	fmt.Println(len(numberOfColorsThatHoldGold))
 
 	fmt.Print("(Part 2) - Total number of bags in a shiny gold one: ")
-	bagInBagCalculator("shinygold")
-
-	total := 0
-	for col := range totalBagsInBags {
-		total = total + totalBagsInBags[col][0]
-	}
-
-	fmt.Println(totalBagsInBags)
-	fmt.Println(total)
+	fmt.Println(bagInBagCalculator("shinygold"))
 }
 
 func colorChecker(colorsToCheck []string) {
@@ -69,36 +61,43 @@ func colorChecker(colorsToCheck []string) {
 
 var totalBagsInBags = make(map[string][]int)
 
-func bagInBagCalculator(colorToStart string) {
+func bagInBagCalculator(colorToStart string) int {
 	inThatBag := bagMap[colorToStart]
 
 	for within := range inThatBag {
 		if !strings.Contains(inThatBag[within], "noother") {
-			toRune := []rune(inThatBag[within])
-			splitNum, _ := strconv.Atoi(string(toRune[0]))
-			color := strings.Replace(inThatBag[within], string(toRune[0]), "", -1)
-
+			splitNum, color := splitNumAndColor(inThatBag[within])
 			totalBagsInBags[color] = []int{splitNum + splitNum*bagsInThatOne(color)}
 		}
 	}
+
+	total := 0
+	for col := range totalBagsInBags {
+		total = total + totalBagsInBags[col][0]
+	}
+	return total
 }
 
 func bagsInThatOne(color string) int {
 	totes := 0
-
 	inThatBag := bagMap[color]
 
 	for within := range inThatBag {
 		if !strings.Contains(inThatBag[within], "noother") {
-			toRune := []rune(inThatBag[within])
-			splitNum, _ := strconv.Atoi(string(toRune[0]))
-			nextColor := strings.Replace(inThatBag[within], string(toRune[0]), "", -1)
-
+			splitNum, nextColor := splitNumAndColor(inThatBag[within])
 			totes = totes + splitNum + splitNum*bagsInThatOne(nextColor)
 		}
 	}
 
 	return totes
+}
+
+func splitNumAndColor(color string) (int, string) {
+	toRune := []rune(color)
+	splitNum, _ := strconv.Atoi(string(toRune[0]))
+	nextColor := strings.Replace(color, string(toRune[0]), "", -1)
+
+	return splitNum, nextColor
 }
 
 func doesContain(sliceToCheckFrom []string, stringToCheck string) bool {
