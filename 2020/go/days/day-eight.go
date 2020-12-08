@@ -26,28 +26,28 @@ func part1(inputSlice []string) {
 var whichOpChanged = []int{0, 0}
 
 func part2(inputSlice []string) {
-	invertSlice := reverseSlice(inputSlice)
+	innerSlice := inputSlice
 
-	for operation := whichOpChanged[0]; operation < len(invertSlice); operation++ {
-		temp := strings.Split(invertSlice[operation], " ")
+	for operation := whichOpChanged[0]; operation < len(innerSlice); operation++ {
+		temp := strings.Split(innerSlice[operation], " ")
 
 		typeOfOp := temp[0]
 		signedNumber, _ := strconv.Atoi(temp[1])
 
 		if typeOfOp == "nop" && whichOpChanged[0] == operation && whichOpChanged[1] == signedNumber {
-			invertSlice[whichOpChanged[0]] = "jmp " + strconv.Itoa(whichOpChanged[1])
+			innerSlice[whichOpChanged[0]] = "jmp " + strconv.Itoa(whichOpChanged[1])
 		}
 
 		if typeOfOp == "jmp" {
-			invertSlice[operation] = "nop " + strconv.Itoa(signedNumber)
+			innerSlice[operation] = "nop " + strconv.Itoa(signedNumber)
 			whichOpChanged = []int{operation, signedNumber}
 			break
 		}
 	}
 
-	acc, in := oppEvaluator(reverseSlice(invertSlice))
+	acc, in := oppEvaluator(innerSlice)
 	if in < len(inputSlice) {
-		part2(invertSlice)
+		part2(innerSlice)
 	} else {
 		fmt.Print("(Part2) - Accumulator after termination: ")
 		fmt.Println(acc)
@@ -99,12 +99,4 @@ func intSliceContains(s []int, i int) bool {
 		}
 	}
 	return false
-}
-
-func reverseSlice(numbers []string) []string {
-	for i := 0; i < len(numbers)/2; i++ {
-		j := len(numbers) - i - 1
-		numbers[i], numbers[j] = numbers[j], numbers[i]
-	}
-	return numbers
 }
