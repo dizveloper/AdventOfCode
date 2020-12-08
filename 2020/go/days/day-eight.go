@@ -18,7 +18,7 @@ func Eight() {
 }
 
 func part1(inputSlice []string) {
-	acc, _ := calculator(inputSlice)
+	acc, _ := oppEvaluator(inputSlice)
 	fmt.Print("(Part1) - Accumulator prior to infinite loop restarting: ")
 	fmt.Println(acc)
 }
@@ -45,7 +45,7 @@ func part2(inputSlice []string) {
 		}
 	}
 
-	acc, in := calculator(reverseSlice(invertSlice))
+	acc, in := oppEvaluator(reverseSlice(invertSlice))
 	if in < len(inputSlice) {
 		part2(invertSlice)
 	} else {
@@ -55,7 +55,7 @@ func part2(inputSlice []string) {
 
 }
 
-func calculator(inputSlice []string) (int, int) {
+func oppEvaluator(inputSlice []string) (int, int) {
 	accumulator := 0
 	operationIndex := 0
 	indexVisited := []int{0}
