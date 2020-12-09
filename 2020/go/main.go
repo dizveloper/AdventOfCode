@@ -38,7 +38,8 @@ func whichDay(day string) {
 		fmt.Println("Running day 8")
 		days.Eight()
 	case "9":
-		fmt.Println("Not there yet.")
+		fmt.Println("Running day 9")
+		days.Nine()
 	case "10":
 		fmt.Println("Not there yet.")
 	case "11":
