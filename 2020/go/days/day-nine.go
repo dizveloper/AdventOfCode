@@ -11,7 +11,7 @@ import (
 func Nine() {
 	inputSlice := inputs.Day9
 
-	part1 := getRuleBreaker(inputSlice)
+	part1 := getRuleBreaker(inputSlice, 25)
 	fmt.Print("(Part 1) - Value that doesn't follow preamble rule: ")
 	fmt.Println(part1)
 
@@ -20,9 +20,7 @@ func Nine() {
 	fmt.Println(part2)
 }
 
-func getRuleBreaker(inputSlice []int) int {
-	preambleSize := 25
-
+func getRuleBreaker(inputSlice []int, preambleSize int) int {
 	for i := preambleSize; i < len(inputSlice); i++ {
 		preamble := inputSlice[i-preambleSize : i]
 		if !preambleEquator(preamble, inputSlice[i]) {
