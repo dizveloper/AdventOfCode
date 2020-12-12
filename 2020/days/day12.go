@@ -26,9 +26,6 @@ func Twelve() {
 		directions = append(directions, tmp)
 	}
 
-	// startingDirection := "E"
-	// startingPosition := "0"
-
 	eastWest, northSouth := travel(directions)
 	fmt.Print("(Part1) - Manhattan Distance of my ship: ")
 	fmt.Println(absOfInt(eastWest) + absOfInt(northSouth))
@@ -43,11 +40,11 @@ func travel(directions [][]string) (int, int) {
 		"S",
 		"W",
 	}
+
 	currentDirection := directions[0][0]
-	// currentPosition := directions[0][1]
-	asInt, _ := strconv.Atoi(directions[0][1])
 
 	for dir := range directions {
+		asInt, _ := strconv.Atoi(directions[dir][1])
 		switch directions[dir][0] {
 		case "N":
 			northSouth = northSouth + asInt
@@ -58,48 +55,98 @@ func travel(directions [][]string) (int, int) {
 		case "W":
 			eastWest = eastWest - asInt
 		case "L":
-			// column % len(grid[0]) (mod to account for over or underflow)
 			switch asInt {
 			case 90:
 				// find current in compass and move down 1
 				for way := range compass {
 					if compass[way] == currentDirection {
-						currentDirection = compass[way-1]
+						if way-1 < 0 {
+							tmp := len(compass) - absOfInt(way-1)
+							currentDirection = compass[tmp]
+							break
+						} else {
+							currentDirection = compass[way-1]
+							break
+						}
 					}
 				}
-				currentDirection = ""
 			case 180:
 				// find current in compass and move down 2
 				for way := range compass {
 					if compass[way] == currentDirection {
-						currentDirection = compass[way-2]
+						if way-2 < 0 {
+							tmp := len(compass) - absOfInt(way-2)
+							currentDirection = compass[tmp]
+							break
+						} else {
+							currentDirection = compass[way-2]
+							break
+						}
 					}
 				}
-				currentDirection = ""
 			case 270:
 				// find current in compass and move down 3
 				for way := range compass {
 					if compass[way] == currentDirection {
-						currentDirection = compass[way-3]
+						if way-3 < 0 {
+							tmp := len(compass) - absOfInt(way-3)
+							currentDirection = compass[tmp]
+							break
+						} else {
+							currentDirection = compass[way-3]
+							break
+						}
 					}
 				}
-				currentDirection = ""
 			default:
-				fmt.Println("shrug.")
+				fmt.Println("shrug1.")
 			}
 		case "R":
 			switch asInt {
 			case 90:
-				// find current in compass and move up 1
-				currentDirection = ""
+				// find current in compass and move down 1
+				for way := range compass {
+					if compass[way] == currentDirection {
+						if way+1 >= len(compass) {
+							tmp := way + 1 - len(compass)
+							currentDirection = compass[tmp]
+							break
+						} else {
+							currentDirection = compass[way+1]
+							break
+						}
+					}
+				}
 			case 180:
-				// find current in compass and move up 2
-				currentDirection = ""
+				// find current in compass and move down 2
+				for way := range compass {
+					if compass[way] == currentDirection {
+						if way+2 >= len(compass) {
+							tmp := way + 2 - len(compass)
+							currentDirection = compass[tmp]
+							break
+						} else {
+							currentDirection = compass[way+2]
+							break
+						}
+					}
+				}
 			case 270:
-				// find current in compass and move up 3
-				currentDirection = ""
+				// find current in compass and move down 3
+				for way := range compass {
+					if compass[way] == currentDirection {
+						if way+3 >= len(compass) {
+							tmp := way + 3 - len(compass)
+							currentDirection = compass[tmp]
+							break
+						} else {
+							currentDirection = compass[way+3]
+							break
+						}
+					}
+				}
 			default:
-				fmt.Println("shrug.")
+				fmt.Println("shrug2.")
 			}
 		case "F":
 			switch currentDirection {
@@ -112,10 +159,10 @@ func travel(directions [][]string) (int, int) {
 			case "W":
 				eastWest = eastWest - asInt
 			default:
-				fmt.Println("shrug.")
+				fmt.Println("shrug3.")
 			}
 		default:
-			fmt.Println("shrug.")
+			fmt.Println("shrug4.")
 		}
 	}
 
