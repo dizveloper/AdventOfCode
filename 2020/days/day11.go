@@ -3,25 +3,26 @@ package days
 import (
 	"fmt"
 	"reflect"
-	// inputs "../inputs"
+
+	inputs "../inputs"
 )
 
 // https://adventofcode.com/2020/day/11
 // Eleven : advent of code, day eleven part1 and 2.
 func Eleven() {
-	// seatGridAsSlices := inputs.Day11
-	seatGridAsSlices := []string{
-		"L.LL.LL.LL",
-		"LLLLLLL.LL",
-		"L.L.L..L..",
-		"LLLL.LL.LL",
-		"L.LL.LL.LL",
-		"L.LLLLL.LL",
-		"..L.L.....",
-		"LLLLLLLLLL",
-		"L.LLLLLL.L",
-		"L.LLLLL.LL",
-	}
+	seatGridAsSlices := inputs.Day11
+	// seatGridAsSlices := []string{
+	// 	"L.LL.LL.LL",
+	// 	"LLLLLLL.LL",
+	// 	"L.L.L..L..",
+	// 	"LLLL.LL.LL",
+	// 	"L.LL.LL.LL",
+	// 	"L.LLLLL.LL",
+	// 	"..L.L.....",
+	// 	"LLLLLLLLLL",
+	// 	"L.LLLLLL.L",
+	// 	"L.LLLLL.LL",
+	// }
 
 	seatGrid := [][]rune{}
 	for seatRow := range seatGridAsSlices {
@@ -52,8 +53,6 @@ func Eleven() {
 	fmt.Print("(Part2) - Final seat grid with ")
 	fmt.Print(walkOccupied(scannedGrid2))
 	fmt.Println(" occupied.")
-
-	prettyGrid(scannedGrid2)
 }
 
 func seatWalker(grid [][]rune) [][]rune {
@@ -114,13 +113,11 @@ func checkOccupied(row int, seat int, grid [][]rune) int {
 		col-1,row+1		col,row+1		col+1,row+1
 	*/
 
-	if len(grid) >= 0 {
-		for x := Max(0, row-1); x <= Min(row+1, len(grid)-1); x++ {
-			for y := Max(0, seat-1); y <= Min(seat+1, len(grid[0])-1); y++ {
-				if !(x == row && y == seat) {
-					if grid[x][y] == '#' {
-						occupied++
-					}
+	for x := Max(0, row-1); x <= Min(row+1, len(grid)-1); x++ {
+		for y := Max(0, seat-1); y <= Min(seat+1, len(grid[0])-1); y++ {
+			if !(x == row && y == seat) {
+				if grid[x][y] == '#' {
+					occupied++
 				}
 			}
 		}
@@ -136,10 +133,12 @@ func checkOccupied2(row int, seat int, grid [][]rune) int {
 		col-1,row+1		col,row+1		col+1,row+1
 	*/
 
-	if len(grid) >= 0 {
-		for x := Max(0, row-1); x <= Min(row+1, len(grid)-1); x++ {
-			for y := Max(0, seat-1); y <= Min(seat+1, len(grid[0])-1); y++ {
-				if !(x == row && y == seat) {
+	for x := Max(0, row-1); x <= Min(row+1, len(grid)-1); x++ {
+		for y := Max(0, seat-1); y <= Min(seat+1, len(grid[0])-1); y++ {
+			if !(x == row && y == seat) {
+				if grid[x][y] == '#' {
+					occupied++
+				} else if grid[x][y] == '.' {
 					occupied = occupied + checkNextNeighbor(grid, x, y, getDir(row, seat, x, y))
 				}
 			}
@@ -187,15 +186,11 @@ func getDir(row int, seat int, x int, y int) string {
 }
 
 func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
-	if grid[x][y] == '#' {
-		return 1
-	}
-
 	switch dir {
 	case "left":
 		if y-1 >= 0 {
 			if grid[x][y-1] == '.' {
-				checkNextNeighbor(grid, x, y-1, "left")
+				return checkNextNeighbor(grid, x, y-1, "left")
 			} else if grid[x][y-1] == '#' {
 				return 1
 			}
@@ -203,7 +198,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "right":
 		if y+1 < len(grid[x]) {
 			if grid[x][y+1] == '.' {
-				checkNextNeighbor(grid, x, y+1, "right")
+				return checkNextNeighbor(grid, x, y+1, "right")
 			} else if grid[x][y+1] == '#' {
 				return 1
 			}
@@ -211,7 +206,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "up":
 		if x-1 >= 0 {
 			if grid[x-1][y] == '.' {
-				checkNextNeighbor(grid, x-1, y, "up")
+				return checkNextNeighbor(grid, x-1, y, "up")
 			} else if grid[x-1][y] == '#' {
 				return 1
 			}
@@ -219,7 +214,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "down":
 		if x+1 < len(grid) {
 			if grid[x+1][y] == '.' {
-				checkNextNeighbor(grid, x+1, y, "down")
+				return checkNextNeighbor(grid, x+1, y, "down")
 			} else if grid[x+1][y] == '#' {
 				return 1
 			}
@@ -227,7 +222,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "diagUpLeft":
 		if x-1 >= 0 && y-1 >= 0 {
 			if grid[x-1][y-1] == '.' {
-				checkNextNeighbor(grid, x-1, y-1, "diagUpLeft")
+				return checkNextNeighbor(grid, x-1, y-1, "diagUpLeft")
 			} else if grid[x-1][y-1] == '#' {
 				return 1
 			}
@@ -235,7 +230,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "diagDownLeft":
 		if x+1 < len(grid) && y-1 >= 0 {
 			if grid[x+1][y-1] == '.' {
-				checkNextNeighbor(grid, x+1, y-1, "diagDownLeft")
+				return checkNextNeighbor(grid, x+1, y-1, "diagDownLeft")
 			} else if grid[x+1][y-1] == '#' {
 				return 1
 			}
@@ -243,7 +238,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "diagUpRight":
 		if x-1 >= 0 && y+1 < len(grid[x]) {
 			if grid[x-1][y+1] == '.' {
-				checkNextNeighbor(grid, x-1, y+1, "diagUpRight")
+				return checkNextNeighbor(grid, x-1, y+1, "diagUpRight")
 			} else if grid[x-1][y+1] == '#' {
 				return 1
 			}
@@ -251,7 +246,7 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 	case "diagDownRight":
 		if x+1 < len(grid) && y+1 < len(grid[x]) {
 			if grid[x+1][y+1] == '.' {
-				checkNextNeighbor(grid, x+1, y+1, "diagDownRight")
+				return checkNextNeighbor(grid, x+1, y+1, "diagDownRight")
 			} else if grid[x+1][y+1] == '#' {
 				return 1
 			}
