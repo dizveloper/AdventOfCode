@@ -11,18 +11,6 @@ import (
 // Eleven : advent of code, day eleven part1 and 2.
 func Eleven() {
 	seatGridAsSlices := inputs.Day11
-	// seatGridAsSlices := []string{
-	// 	"L.LL.LL.LL",
-	// 	"LLLLLLL.LL",
-	// 	"L.L.L..L..",
-	// 	"LLLL.LL.LL",
-	// 	"L.LL.LL.LL",
-	// 	"L.LLLLL.LL",
-	// 	"..L.L.....",
-	// 	"LLLLLLLLLL",
-	// 	"L.LLLLLL.L",
-	// 	"L.LLLLL.LL",
-	// }
 
 	seatGrid := [][]rune{}
 	for seatRow := range seatGridAsSlices {
