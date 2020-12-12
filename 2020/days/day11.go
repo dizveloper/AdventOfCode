@@ -52,6 +52,8 @@ func Eleven() {
 	fmt.Print("(Part2) - Final seat grid with ")
 	fmt.Print(walkOccupied(scannedGrid2))
 	fmt.Println(" occupied.")
+
+	prettyGrid(scannedGrid2)
 }
 
 func seatWalker(grid [][]rune) [][]rune {
@@ -77,11 +79,11 @@ func seatWalker2(grid [][]rune) [][]rune {
 
 	for row, cols := range grid {
 		for seat := range cols {
-			if cols[seat] == 'L' && checkOccupied2(row, seat, grid, 1) == 0 {
+			if cols[seat] == 'L' && checkOccupied2(row, seat, grid) == 0 {
 				newGrid[row][seat] = '#'
 			}
 
-			if cols[seat] == '#' && checkOccupied2(row, seat, grid, 1) >= 5 {
+			if cols[seat] == '#' && checkOccupied2(row, seat, grid) >= 5 {
 				newGrid[row][seat] = 'L'
 			}
 		}
@@ -115,7 +117,7 @@ func checkOccupied(row int, seat int, grid [][]rune) int {
 	if len(grid) >= 0 {
 		for x := Max(0, row-1); x <= Min(row+1, len(grid)-1); x++ {
 			for y := Max(0, seat-1); y <= Min(seat+1, len(grid[0])-1); y++ {
-				if x != row || y != seat {
+				if !(x == row && y == seat) {
 					if grid[x][y] == '#' {
 						occupied++
 					}
@@ -125,7 +127,8 @@ func checkOccupied(row int, seat int, grid [][]rune) int {
 	}
 	return occupied
 }
-func checkOccupied2(row int, seat int, grid [][]rune, next int) int {
+
+func checkOccupied2(row int, seat int, grid [][]rune) int {
 	occupied := 0
 	/*
 		col-1,row-1		col,row-1		col+1, row-1
@@ -134,11 +137,10 @@ func checkOccupied2(row int, seat int, grid [][]rune, next int) int {
 	*/
 
 	if len(grid) >= 0 {
-		for x := Max(0, row-next); x <= Min(row+next, len(grid)-1); x++ {
-			for y := Max(0, seat-next); y <= Min(seat+next, len(grid[0])-1); y++ {
-				if x != row || y != seat {
-					dir := getDir(row, seat, x, y)
-					occupied = occupied + checkNextNeighbor(grid, x, y, dir)
+		for x := Max(0, row-1); x <= Min(row+1, len(grid)-1); x++ {
+			for y := Max(0, seat-1); y <= Min(seat+1, len(grid[0])-1); y++ {
+				if !(x == row && y == seat) {
+					occupied = occupied + checkNextNeighbor(grid, x, y, getDir(row, seat, x, y))
 				}
 			}
 		}
@@ -157,27 +159,27 @@ func getDir(row int, seat int, x int, y int) string {
 		return "right"
 	}
 
-	if row < x && seat == y {
+	if row > x && seat == y {
 		return "up"
 	}
 
-	if row > x && seat == y {
+	if row < x && seat == y {
 		return "down"
 	}
 
-	if row < x && seat > y {
+	if row > x && seat > y {
 		return "diagUpLeft"
 	}
 
-	if row > x && seat > y {
+	if row < x && seat > y {
 		return "diagDownLeft"
 	}
 
-	if row < x && seat < y {
+	if row > x && seat < y {
 		return "diagUpRight"
 	}
 
-	if row > x && seat > y {
+	if row < x && seat < y {
 		return "diagDownRight"
 	}
 
@@ -191,16 +193,12 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 
 	switch dir {
 	case "left":
-		if y-1 > 0 {
+		if y-1 >= 0 {
 			if grid[x][y-1] == '.' {
 				checkNextNeighbor(grid, x, y-1, "left")
 			} else if grid[x][y-1] == '#' {
 				return 1
-			} else {
-				return 0
 			}
-		} else {
-			return 0
 		}
 	case "right":
 		if y+1 < len(grid[x]) {
@@ -208,83 +206,55 @@ func checkNextNeighbor(grid [][]rune, x int, y int, dir string) int {
 				checkNextNeighbor(grid, x, y+1, "right")
 			} else if grid[x][y+1] == '#' {
 				return 1
-			} else {
-				return 0
 			}
-		} else {
-			return 0
 		}
 	case "up":
-		if x+1 < len(grid) {
-			if grid[x+1][y] == '.' {
-				checkNextNeighbor(grid, x+1, y, "up")
-			} else if grid[x+1][y] == '#' {
-				return 1
-			} else {
-				return 0
-			}
-		} else {
-			return 0
-		}
-	case "down":
-		if x-1 > 0 {
+		if x-1 >= 0 {
 			if grid[x-1][y] == '.' {
-				checkNextNeighbor(grid, x-1, y, "down")
+				checkNextNeighbor(grid, x-1, y, "up")
 			} else if grid[x-1][y] == '#' {
 				return 1
-			} else {
-				return 0
 			}
-		} else {
-			return 0
+		}
+	case "down":
+		if x+1 < len(grid) {
+			if grid[x+1][y] == '.' {
+				checkNextNeighbor(grid, x+1, y, "down")
+			} else if grid[x+1][y] == '#' {
+				return 1
+			}
 		}
 	case "diagUpLeft":
-		if x+1 < len(grid) && y-1 > 0 {
-			if grid[x+1][y-1] == '.' {
-				checkNextNeighbor(grid, x+1, y-1, "diagUpLeft")
-			} else if grid[x+1][y-1] == '#' {
-				return 1
-			} else {
-				return 0
-			}
-		} else {
-			return 0
-		}
-	case "diagDownLeft":
-		if x-1 > 0 && y-1 > 0 {
+		if x-1 >= 0 && y-1 >= 0 {
 			if grid[x-1][y-1] == '.' {
-				checkNextNeighbor(grid, x-1, y-1, "diagDownLeft")
+				checkNextNeighbor(grid, x-1, y-1, "diagUpLeft")
 			} else if grid[x-1][y-1] == '#' {
 				return 1
-			} else {
-				return 0
 			}
-		} else {
-			return 0
+		}
+	case "diagDownLeft":
+		if x+1 < len(grid) && y-1 >= 0 {
+			if grid[x+1][y-1] == '.' {
+				checkNextNeighbor(grid, x+1, y-1, "diagDownLeft")
+			} else if grid[x+1][y-1] == '#' {
+				return 1
+			}
 		}
 	case "diagUpRight":
-		if x+1 < len(grid) && y+1 < len(grid[x]) {
-			if grid[x+1][y+1] == '.' {
-				checkNextNeighbor(grid, x+1, y+1, "diagUpRight")
-			} else if grid[x+1][y+1] == '#' {
-				return 1
-			} else {
-				return 0
-			}
-		} else {
-			return 0
-		}
-	case "diagDownRight":
-		if x-1 > 0 && y+1 < len(grid[x]) {
+		if x-1 >= 0 && y+1 < len(grid[x]) {
 			if grid[x-1][y+1] == '.' {
-				checkNextNeighbor(grid, x-1, y+1, "diagDownRight")
+				checkNextNeighbor(grid, x-1, y+1, "diagUpRight")
 			} else if grid[x-1][y+1] == '#' {
 				return 1
-			} else {
-				return 0
 			}
-		} else {
-			return 0
+		}
+	case "diagDownRight":
+		if x+1 < len(grid) && y+1 < len(grid[x]) {
+			if grid[x+1][y+1] == '.' {
+				checkNextNeighbor(grid, x+1, y+1, "diagDownRight")
+			} else if grid[x+1][y+1] == '#' {
+				return 1
+			}
 		}
 	default:
 		return 0
