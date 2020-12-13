@@ -120,7 +120,7 @@ func Thirteen() {
 	fmt.Println(startStampOfSubsequentSeries(buses4, 0))
 	fmt.Println(startStampOfSubsequentSeries(buses5, 0))
 	fmt.Println("ACTUAL:")
-	fmt.Println(startStampOfSubsequentSeries(buses, 100000000000000))
+	fmt.Println(startStampOfSubsequentSeries(buses, 0))
 
 }
 
