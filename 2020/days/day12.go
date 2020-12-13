@@ -4,20 +4,14 @@ import (
 	"fmt"
 	"strconv"
 	"strings"
-	// inputs "../inputs"
+
+	inputs "../inputs"
 )
 
 // https://adventofcode.com/2020/day/12
 // Twelve : advent of code, day twelve part1 and 2
 func Twelve() {
-	// inputSlice := inputs.Day12
-	inputSlice := []string{
-		"F 10",
-		"N 3",
-		"F 7",
-		"R 90",
-		"F 11",
-	}
+	inputSlice := inputs.Day12
 
 	directions := [][]string{}
 	directions = append(directions, []string{"E", "0"})
@@ -26,9 +20,100 @@ func Twelve() {
 		directions = append(directions, tmp)
 	}
 
+	waypointDirs := [][]string{}
+	waypointDirs = append(waypointDirs, []string{"E", "0"})
+	for dir := range inputSlice {
+		tmp := strings.Split(inputSlice[dir], " ")
+		waypointDirs = append(waypointDirs, tmp)
+	}
+
 	eastWest, northSouth := travel(directions)
 	fmt.Print("(Part1) - Manhattan Distance of my ship: ")
 	fmt.Println(absOfInt(eastWest) + absOfInt(northSouth))
+
+	eastWest, northSouth = waypointTravel(waypointDirs)
+	fmt.Print("(Part2) - Manhattan Distance of my ship: ")
+	fmt.Println(absOfInt(eastWest) + absOfInt(northSouth))
+}
+
+func waypointTravel(directions [][]string) (int, int) {
+	eastWest := 0
+	northSouth := 0
+
+	currentWaypointPosition := []int{eastWest + 10, northSouth + 1}
+
+	for dir := range directions {
+		asInt, _ := strconv.Atoi(directions[dir][1])
+		switch directions[dir][0] {
+		case "N":
+			currentWaypointPosition[1] = currentWaypointPosition[1] + asInt
+		case "S":
+			currentWaypointPosition[1] = currentWaypointPosition[1] - asInt
+		case "E":
+			currentWaypointPosition[0] = currentWaypointPosition[0] + asInt
+		case "W":
+			currentWaypointPosition[0] = currentWaypointPosition[0] - asInt
+		case "L":
+			switch asInt {
+			case 90:
+				offsetEastWest := currentWaypointPosition[0] - eastWest
+				offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+				currentWaypointPosition[0] = eastWest - offsetNorthSouth
+				currentWaypointPosition[1] = northSouth + offsetEastWest
+			case 180:
+				offsetEastWest := currentWaypointPosition[0] - eastWest
+				offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+				currentWaypointPosition[0] = eastWest - offsetEastWest
+				currentWaypointPosition[1] = northSouth - offsetNorthSouth
+			case 270:
+				offsetEastWest := currentWaypointPosition[0] - eastWest
+				offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+				currentWaypointPosition[0] = eastWest + offsetNorthSouth
+				currentWaypointPosition[1] = northSouth - offsetEastWest
+			default:
+				fmt.Println("shrug1.")
+			}
+		case "R":
+			switch asInt {
+			case 90:
+				offsetEastWest := currentWaypointPosition[0] - eastWest
+				offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+				currentWaypointPosition[0] = eastWest + offsetNorthSouth
+				currentWaypointPosition[1] = northSouth - offsetEastWest
+			case 180:
+				offsetEastWest := currentWaypointPosition[0] - eastWest
+				offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+				currentWaypointPosition[0] = eastWest - offsetEastWest
+				currentWaypointPosition[1] = northSouth - offsetNorthSouth
+			case 270:
+				offsetEastWest := currentWaypointPosition[0] - eastWest
+				offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+				currentWaypointPosition[0] = eastWest - offsetNorthSouth
+				currentWaypointPosition[1] = northSouth + offsetEastWest
+			default:
+				fmt.Println("shrug2.")
+			}
+		case "F":
+			offsetEastWest := currentWaypointPosition[0] - eastWest
+			offsetNorthSouth := currentWaypointPosition[1] - northSouth
+
+			eastWest = eastWest + ((currentWaypointPosition[0] - eastWest) * asInt)
+			northSouth = northSouth + ((currentWaypointPosition[1] - northSouth) * asInt)
+
+			currentWaypointPosition[0] = eastWest + offsetEastWest
+			currentWaypointPosition[1] = northSouth + offsetNorthSouth
+		default:
+			fmt.Println("shrug4.")
+		}
+	}
+
+	return eastWest, northSouth
 }
 
 func travel(directions [][]string) (int, int) {
