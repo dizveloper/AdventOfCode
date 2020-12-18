@@ -5,15 +5,14 @@ import (
 	"strconv"
 	"unicode"
 	"unicode/utf8"
+
+	inputs "../inputs"
 )
 
 // https://adventofcode.com/2020/day/1
 // Eighteen : advent of code, day eighteen part1 and 2
 func Eighteen() {
-	// inputSlice := inputs.Day18
-	inputSlice := []string{
-		"((2+4*9)*(6+9*8+6)+6)+2+4*2",
-	}
+	inputSlice := inputs.Day18
 
 	fmt.Print("(Part 1) - Get sum of all statements: ")
 	fmt.Println(getSumOfStatements(inputSlice))
