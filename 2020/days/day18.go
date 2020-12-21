@@ -13,14 +13,14 @@ import (
 // Eighteen : advent of code, day eighteen part1 and 2
 func Eighteen() {
 	inputSlice := inputs.Day18
+	inputSlice2 := inputs.Day18p2
 
 	fmt.Print("(Part 1) - Get sum of all statements: ")
 	fmt.Println(getSumOfStatements(inputSlice))
 
 	// NOTE TO SELF: When you get back to this, just put parens around all valid subsets of addition expressions.
-	fmt.Println(putParensOnPluses(inputSlice))
 	fmt.Print("(Part 2) - Get sum of all statements: ")
-	fmt.Println(getSumOfStatements(putParensOnPluses(inputSlice)))
+	fmt.Println(getSumOfStatements(inputSlice2))
 }
 
 func putParensOnPluses(input []string) []string {
