@@ -2,6 +2,7 @@ package days
 
 import (
 	"fmt"
+	"math"
 	"strconv"
 	"strings"
 
@@ -58,20 +59,21 @@ func part1(inputSlice []string) {
 }
 
 func part2(inputSlice []string) {
-	oxygenBinStr := ""
-	c02BinStr := ""
+	oxygenBin, _ := strconv.ParseInt(p2helper(inputSlice, 1), 2, 64)
+	c02Bin, _ := strconv.ParseInt(p2helper(inputSlice, 0), 2, 64)
 
-	copy1 := inputSlice
-	copy2 := inputSlice
+	fmt.Println("Part 2:")
+	fmt.Println(oxygenBin * c02Bin)
+}
 
-	// oxygen := []string{}
-	// c02 := []string{}
+func p2helper(in []string, digit int) string {
+	binStr := ""
 
-	for column := 0; column < len(inputSlice[0]); column++ {
+	for column := 0; column < len(in[0]); column++ {
 		ones := 0
 		zeros := 0
 
-		for _, row := range inputSlice {
+		for _, row := range in {
 
 			runed := []rune(row)
 
@@ -84,62 +86,28 @@ func part2(inputSlice []string) {
 			}
 		}
 
-		if len(copy1) == 1 {
-			oxygenBinStr = copy1[0]
-		} else if len(copy1) == 2 {
-			firstConv, _ := strconv.Atoi(string([]rune(copy1[0])[column+1]))
-			if firstConv == 1 {
-				oxygenBinStr = copy1[0]
+		if len(in) == 1 {
+			binStr = in[0]
+		} else if len(in) == 2 {
+			firstConv, _ := strconv.Atoi(string([]rune(in[0])[column]))
+			if firstConv == digit {
+				binStr = in[0]
 			} else {
-				oxygenBinStr = copy1[1]
+				binStr = in[1]
 			}
 		} else {
 			if ones > zeros {
-				copy1 = buildArr(1, column, copy1)
-				fmt.Print("copy1 in first: ")
-				fmt.Println(copy1)
+				in = buildArr(digit, column, in)
 			} else if zeros > ones {
-				copy1 = buildArr(0, column, copy1)
-				fmt.Print("copy1 in second: ")
-				fmt.Println(copy1)
+				temp := float64(digit - 1)
+				in = buildArr(int(math.Abs(temp)), column, in)
 			} else {
-				copy1 = buildArr(1, column, copy1)
-				fmt.Print("copy1 in ...: ")
-				fmt.Println(copy1)
-			}
-		}
-
-		if len(copy2) == 1 {
-			c02BinStr = copy2[0]
-		} else if len(copy2) == 2 {
-			firstConv, _ := strconv.Atoi(string([]rune(copy2[0])[column+1]))
-			if firstConv == 0 {
-				c02BinStr = copy2[0]
-			} else {
-				c02BinStr = copy2[1]
-			}
-		} else {
-			if ones > zeros {
-				copy2 = buildArr(0, column, copy2)
-				fmt.Print("copy2 in first: ")
-				fmt.Println(copy2)
-			} else if zeros > ones {
-				copy2 = buildArr(1, column, copy2)
-				fmt.Print("copy2 in second: ")
-				fmt.Println(copy2)
-			} else {
-				copy2 = buildArr(0, column, copy2)
-				fmt.Print("copy2 in ...: ")
-				fmt.Println(copy2)
+				in = buildArr(digit, column+1, in)
 			}
 		}
 	}
 
-	oxygenBin, _ := strconv.ParseInt("011011000110", 2, 64)
-	c02Bin, _ := strconv.ParseInt("100100101100", 2, 64)
-
-	fmt.Println("Part 2:")
-	fmt.Println(oxygenBin * c02Bin)
+	return binStr
 }
 
 func buildArr(digit int, column int, arr []string) []string {
