@@ -1,7 +1,9 @@
-_Using Elixir 1.12.3 (compiled with Erlang/OTP 24)_
+_go version go1.17.3 darwin/amd64_
 
-To run: `$ elixir day<NUMBER OF DAY>.exs`
+To run: `$ go run main.go <number of day>`
 
-EXAMPLE: `$ elixir day01.exs`
+EXAMPLE: `$ go run main.go 1`
 
-![Elixing](https://media.giphy.com/media/1ymaimo7YeX0OELZA4/giphy.gif)
+[Associated Blog Series](https://dev.to/dizveloper/advent-of-code-2020-w-golang-479f)
+
+![stop](https://media.giphy.com/media/jOzvxE4goQyAQurNzN/giphy.gif)
