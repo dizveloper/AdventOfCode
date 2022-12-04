@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	days "github.com/dizveloper/adventofcode/2022/days"
+	days "aoc2022/days"
 )
 
 func main() {
