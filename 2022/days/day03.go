@@ -67,6 +67,7 @@ func Three() {
 	}
 
 	pri_score := 0
+	pri_score2 := 0
 
 	for _, rucksack := range inputSlice {
 		compartment_size := len(rucksack) / 2
@@ -84,11 +85,14 @@ func Three() {
 
 	fmt.Println(pri_score)
 
-	for _, rucksack := range inputSlice {
-
-	}
-
 	for rucksack := 0; rucksack < len(inputSlice); rucksack += 3 {
-
+		for _, sack := range inputSlice[rucksack] {
+			if strings.Contains(inputSlice[rucksack+1], string(sack)) && strings.Contains(inputSlice[rucksack+2], string(sack)) {
+				pri_score2 += priority_weight[string(sack)]
+				break
+			}
+		}
 	}
+
+	fmt.Println(pri_score2)
 }
