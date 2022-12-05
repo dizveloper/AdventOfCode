@@ -11,6 +11,7 @@ func Two() {
 	input := inputs.Day2
 
 	score := 0
+	score2 := 0
 
 	score_mappings := map[string]int{
 		"A": 1,
@@ -35,9 +36,29 @@ func Two() {
 		"C Z": 3,
 	}
 
+	result_mappings2 := map[string]int{
+		"A X": 3,
+		"A Y": 4,
+		"A Z": 8,
+		//
+		"B X": 1,
+		"B Y": 5,
+		"B Z": 9,
+		//
+		"C X": 2,
+		"C Y": 6,
+		"C Z": 7,
+	}
+
 	for _, round := range input {
 		score += (result_mappings[round] + score_mappings[string(round[2])])
 	}
 
 	fmt.Println(score)
+
+	for _, round := range input {
+		score2 += (result_mappings2[round])
+	}
+
+	fmt.Println(score2)
 }
