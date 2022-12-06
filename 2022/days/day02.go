@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// https://adventofcode.com/2021/day/2
+// https://adventofcode.com/2022/day/2
 // Two : advent of code, day two part1 and 2
 func Two() {
 	input := inputs.Day2
