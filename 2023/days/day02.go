@@ -25,11 +25,11 @@ func Two() {
 		gameMap[game_number] = splitGameAndNumbers[1]
 	}
 
-	part1()
-	part2()
+	two_part1()
+	two_part2()
 }
 
-func part1() {
+func two_part1() {
 	allowed_dice := map[string]int{
 		"red":   12,
 		"green": 13,
@@ -69,7 +69,7 @@ func part1() {
 	fmt.Println("Total of possible game IDs:", idTotal)
 }
 
-func part2() {
+func two_part2() {
 	allGamesPowerSums := 0
 	for _, game := range gameMap {
 		setPowerSum := 1

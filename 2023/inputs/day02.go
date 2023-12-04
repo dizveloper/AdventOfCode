@@ -9,8 +9,6 @@ var Day2ex = []string{
 	"Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green",
 }
 
-// var Day2ex2 = []string{}
-
 var Day2 = []string{
 	"Game 1: 4 blue; 1 green, 2 red; 4 blue, 1 green, 6 red",
 	"Game 2: 7 red, 1 green, 4 blue; 13 red, 11 blue; 6 red, 2 blue; 9 blue, 9 red; 4 blue, 11 red; 15 red, 1 green, 3 blue",
