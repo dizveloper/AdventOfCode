@@ -52,32 +52,6 @@ func three_part1() {
 	fmt.Println("Parts total: ", partsTotal)
 }
 
-func three_part2() {
-	/*
-		Read each line of the engineMap	until you reach a number
-		then check all adjacent characters for a symbol
-	*/
-
-	gearsTotal := 0
-
-	for x := 0; x < len(engineMap); x++ {
-		for y := 0; y < len(engineMap[x]); y++ {
-			if string(engineMap[x][y]) == "*" {
-				// if containsTwoAdjacentNums(x, y) {
-				// fmt.Println("Found two adjacent numbers at ", x, y)
-				// asInt, _ := strconv.Atoi(string(engineMap[x][y-1 : y+1]))
-				// gearsTotal *= asInt
-				// }
-				fmt.Println("Gear total at:", containsTwoAdjacentNums(x, y))
-				gearsTotal += containsTwoAdjacentNums(x, y)
-				break
-			}
-		}
-
-	}
-	fmt.Println("Gears total: ", gearsTotal)
-}
-
 func containsAdjacentSymbol(x int, startY int, endY int) bool {
 	r, _ := regexp.Compile("[^0-9.]")
 	/*
@@ -123,125 +97,66 @@ func containsAdjacentSymbol(x int, startY int, endY int) bool {
 	return res
 }
 
-func containsTwoAdjacentNums(x int, y int) int {
-	r, _ := regexp.Compile(`\d`)
+func three_part2() {
+	gearsTotal := 0
 
-	skipAbove := x == 0
-	skipBelow := x == len(engineMap)-1
-	skipLeft := y == 0
-	skipRight := y == len(engineMap[x])-1
-
-	leftOffset := 1
-	if skipLeft {
-		leftOffset = 0
+	var reggy = regexp.MustCompile(`\d+`)
+	var checkIndices = [][]int{
+		{-1, -1},
+		{0, -1},
+		{1, -1},
+		{-1, 0},
+		{1, 0},
+		{-1, 1},
+		{0, 1},
+		{1, 1},
 	}
 
-	rightOffset := 2
-	if skipRight {
-		rightOffset = 1
-	}
+	var gearsChecked = map[Gear][]string{}
 
-	numAbove := 1
-	numBelow := 1
-	numNextTo := 1
-	numNextToLeft := 1
-	numNextToRight := 1
-	pass := 0
-
-	if !skipAbove {
-		// fmt.Println(string(engineMap[x-1][y-leftOffset : y+rightOffset]))
-		if r.MatchString(string(engineMap[x-1][y-leftOffset : y+rightOffset])) {
-			pass += 1
-			numAbove, _ = strconv.Atoi(buildStringNum(x-1, y, leftOffset, rightOffset))
-			fmt.Println("Num above: ", numAbove)
-		}
-	}
-
-	// fmt.Println(string(engineMap[x][y-leftOffset : y+rightOffset]))
-	if r.MatchString(string(engineMap[x][y-leftOffset : y+rightOffset])) {
-		numNextTo, _ = strconv.Atoi(buildStringNum(x, y, leftOffset, rightOffset))
-		fmt.Println("Num next to: ", numNextTo)
-
-		if rune(engineMap[x][y]) == '*' {
-			if unicode.IsDigit(rune(engineMap[x][y-leftOffset])) {
-				pass += 1
-				numNextToLeft, _ = strconv.Atoi(lookLeft(x, y-leftOffset))
-				fmt.Println("Num next to Left: ", numNextToLeft)
-				// fmt.Println(lookLeft(x, y-leftOffset))
-			}
-
-			if unicode.IsDigit(rune(engineMap[x][y+rightOffset-1])) {
-				pass += 1
-				numNextToRight, _ = strconv.Atoi(lookRight(x, y+rightOffset-1))
-				fmt.Println("Num next to Right: ", numNextToRight)
-				// fmt.Println(lookRight(x, y+rightOffset))
+	for k, x := range engineMap {
+		var indices = reggy.FindAllIndex([]byte(x), -1)
+		for _, i := range indices {
+			var start, end = i[0], i[1]
+			for y := start; y < end; y++ {
+				for _, c := range checkIndices {
+					if isSymbol(engineMap, y+c[0], k+c[1]) && engineMap[k+c[1]][y+c[0]] == '*' {
+						gearsChecked[Gear{y + c[0], k + c[1]}] = append(gearsChecked[Gear{y + c[0], k + c[1]}], string(engineMap[k][start:end]))
+					}
+				}
 			}
 		}
+	}
 
-		if buildStringNum(x, y, leftOffset, rightOffset) == strconv.Itoa(numNextToLeft)+strconv.Itoa(numNextToRight) {
-			numNextTo = 1
+	for _, gear := range gearsChecked {
+		var num1 = gear[0]
+		var num2 = ""
+		for i := range gear {
+			if num1 != gear[i] {
+				num2 = gear[i]
+				break
+			}
+		}
+		if num2 != "" {
+			var n1, _ = strconv.Atoi(num1)
+			var n2, _ = strconv.Atoi(num2)
+			gearsTotal += n1 * n2
 		}
 	}
 
-	if !skipBelow {
-		// fmt.Println(string(engineMap[x+1][y-leftOffset : y+rightOffset]))
-		if r.MatchString(string(engineMap[x+1][y-leftOffset : y+rightOffset])) {
-			pass += 1
-			numBelow, _ = strconv.Atoi(buildStringNum(x+1, y, leftOffset, rightOffset))
-			fmt.Println("Num below: ", numBelow)
-		}
-	}
-
-	if pass < 2 {
-		return 0
-	}
-	return numAbove * numBelow * numNextTo * numNextToLeft * numNextToRight
+	fmt.Println("Gears total: ", gearsTotal)
 }
 
-func buildStringNum(x int, y int, leftOffset int, rightOffset int) string {
-	num := ""
-	rightOffset -= 1
-
-	// fmt.Println(engineMap[x][y-leftOffset:y+rightOffset])
-
-	if unicode.IsDigit(rune(engineMap[x][y-leftOffset])) {
-		num += lookLeft(x, y-leftOffset)
-		// fmt.Println(lookLeft(x, y-leftOffset))
+func isSymbol(input []string, x, y int) bool {
+	if x >= 0 && y >= 0 && len(input) > y && len(input[y]) > x {
+		return input[y][x] != '.' && !unicode.IsDigit(rune(input[y][x]))
+	} else {
+		return false
 	}
-	if unicode.IsDigit(rune(engineMap[x][y])) {
-		num += string(engineMap[x][y])
-		// fmt.Println(string(engineMap[x][y]))
-	}
-	if unicode.IsDigit(rune(engineMap[x][y+rightOffset])) {
-		num += lookRight(x, y+rightOffset)
-		// fmt.Println(lookRight(x, y+rightOffset))
-	}
-
-	// fmt.Println("Num: ", num)
-
-	return num
 }
 
-func lookLeft(x int, y int) string {
-	builder := ""
-	for l := y; l >= 0; l-- {
-		if unicode.IsDigit(rune(engineMap[x][l])) {
-			builder = string(engineMap[x][l]) + builder
-		} else {
-			break
-		}
-	}
-	return builder
+type Gear struct {
+	x, y int
 }
 
-func lookRight(x int, y int) string {
-	builder := ""
-	for r := y; r < len(engineMap[x]); r++ {
-		if unicode.IsDigit(rune(engineMap[x][r])) {
-			builder += string(engineMap[x][r])
-		} else {
-			break
-		}
-	}
-	return builder
-}
+// 78236071
