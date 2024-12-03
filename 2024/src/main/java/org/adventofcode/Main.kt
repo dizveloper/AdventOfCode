@@ -9,6 +9,8 @@ class Main {
 
             // call the main function of each day
             Day1()
+            Day2()
+
         }
     }
 }
