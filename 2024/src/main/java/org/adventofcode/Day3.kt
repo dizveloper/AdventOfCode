@@ -5,9 +5,8 @@ import kotlin.math.abs
 
 fun Day3() {
     println(" ~ Day 3 ~ ")
-
-    println("Part 1: ${runLogic(false)}")
-    println("Part 2: ${runLogic(true)}")
+    println("Part 1: ${runLogic(false, "src/main/resources/day3_input.txt")}")
+    println("Part 2: ${runLogic(true, "src/main/resources/day3_input.txt")}")
 }
 
 fun String?.indexesOf(pat: String): List<Int> =
@@ -16,37 +15,32 @@ fun String?.indexesOf(pat: String): List<Int> =
         .map { it.range.first }
         .toList()
 
-fun runLogic(checkForDoing: Boolean): Int {
+fun runLogic(checkForDoing: Boolean, filename: String): Int {
     var totalMulSum = 0
-    File("src/main/resources/day3_input_ex2.txt").forEachLine { line ->
-        var doing = true
-        val lineMulSum = line.indexesOf("mul\\(").map { it: Int ->
+    var doing = true
+    val input = File(filename).readText()
+        val lineMulSum = input.indexesOf("mul\\(").map { it: Int ->
             if (checkForDoing) {
-                // Look backwards to see if there are any instances of don't() before the current mul()
-                val finalDontInd = line.substring(0, it).lastIndexOf("don't()")
-                val finalDoInd = line.substring(0, it).lastIndexOf("do()")
+                val finalDontInd = input.substring(0, it).lastIndexOf("don't()")
+                val finalDoInd = input.substring(0, it).lastIndexOf("do()")
                 doing = finalDontInd <= finalDoInd
             }
 
-            val commaInd = line.indexOf(",", it)
-            val endInd = line.indexOf(")", it) + 1
+            val commaInd = input.indexOf(",", it)
+            val endInd = input.indexOf(")", it) + 1
             var res = 0
 
-            // do if it is within an index window in doWindows
             if (doing) {
-                if (line.substring(it + 4, commaInd).toIntOrNull() != null
-                    && line.substring(commaInd + 1, endInd - 1).toIntOrNull() != null
+                if (input.substring(it + 4, commaInd).toIntOrNull() != null
+                    && input.substring(commaInd + 1, endInd - 1).toIntOrNull() != null
                 ) {
-                    val mulStatement = line.substring(it, endInd)
-
-                    res = line.substring(it + 4, commaInd).toInt() * line.substring(commaInd + 1, endInd - 1).toInt()
+                    res = input.substring(it + 4, commaInd).toInt() * input.substring(commaInd + 1, endInd - 1).toInt()
                 }
             }
             res
         }.sum()
 
         totalMulSum += lineMulSum
-    }
 
     return totalMulSum
 }
