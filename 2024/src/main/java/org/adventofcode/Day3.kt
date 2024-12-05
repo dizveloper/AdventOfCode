@@ -19,26 +19,26 @@ fun runLogic(checkForDoing: Boolean, filename: String): Int {
     var totalMulSum = 0
     var doing = true
     val input = File(filename).readText()
-        val lineMulSum = input.indexesOf("mul\\(").map { it: Int ->
-            if (checkForDoing) {
-                val finalDontInd = input.substring(0, it).lastIndexOf("don't()")
-                val finalDoInd = input.substring(0, it).lastIndexOf("do()")
-                doing = finalDontInd <= finalDoInd
-            }
+    val lineMulSum = input.indexesOf("mul\\(").map { it: Int ->
+        if (checkForDoing) {
+            val finalDontInd = input.substring(0, it).lastIndexOf("don't()")
+            val finalDoInd = input.substring(0, it).lastIndexOf("do()")
+            doing = finalDontInd <= finalDoInd
+        }
 
-            val commaInd = input.indexOf(",", it)
-            val endInd = input.indexOf(")", it) + 1
-            var res = 0
+        val commaInd = input.indexOf(",", it)
+        val endInd = input.indexOf(")", it) + 1
+        var res = 0
 
-            if (doing) {
-                if (input.substring(it + 4, commaInd).toIntOrNull() != null
-                    && input.substring(commaInd + 1, endInd - 1).toIntOrNull() != null
-                ) {
-                    res = input.substring(it + 4, commaInd).toInt() * input.substring(commaInd + 1, endInd - 1).toInt()
-                }
+        if (doing) {
+            if (input.substring(it + 4, commaInd).toIntOrNull() != null
+                && input.substring(commaInd + 1, endInd - 1).toIntOrNull() != null
+            ) {
+                res = input.substring(it + 4, commaInd).toInt() * input.substring(commaInd + 1, endInd - 1).toInt()
             }
-            res
-        }.sum()
+        }
+        res
+    }.sum()
 
         totalMulSum += lineMulSum
 

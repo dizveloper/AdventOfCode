@@ -8,9 +8,10 @@ class Main {
             println(" ~ Advent of Code ~ ")
 
             // call the main function of each day
-//            Day1()
-//            Day2()
+            Day1()
+            Day2()
             Day3()
+            Day4()
         }
     }
 }
